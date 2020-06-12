@@ -1,0 +1,1718 @@
+country_region_code,country_region,sub_region_1,sub_region_2,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+DE,Germany,,,2020-02-15,6,1,45,10,0,-1
+DE,Germany,,,2020-02-16,7,10,9,6,-1,0
+DE,Germany,,,2020-02-17,2,2,7,1,-2,0
+DE,Germany,,,2020-02-18,2,2,10,1,-1,1
+DE,Germany,,,2020-02-19,3,0,6,-1,-1,1
+DE,Germany,,,2020-02-20,2,-1,14,3,-4,1
+DE,Germany,,,2020-02-21,2,2,15,-1,-8,2
+DE,Germany,,,2020-02-22,-1,-2,26,9,-3,0
+DE,Germany,,,2020-02-23,0,9,-24,2,-3,0
+DE,Germany,,,2020-02-24,2,-5,17,-5,-20,4
+DE,Germany,,,2020-02-25,-1,-1,15,-5,-13,4
+DE,Germany,,,2020-02-26,-3,0,0,-7,-5,2
+DE,Germany,,,2020-02-27,-5,3,-3,-5,-4,2
+DE,Germany,,,2020-02-28,3,11,9,-2,-5,2
+DE,Germany,,,2020-02-29,-1,5,9,1,-1,1
+DE,Germany,,,2020-03-01,8,18,21,4,1,0
+DE,Germany,,,2020-03-02,2,8,9,-1,0,0
+DE,Germany,,,2020-03-03,0,5,8,-3,0,1
+DE,Germany,,,2020-03-04,2,2,14,-4,0,1
+DE,Germany,,,2020-03-05,-4,0,0,-5,0,1
+DE,Germany,,,2020-03-06,-3,1,-11,-7,-1,2
+DE,Germany,,,2020-03-07,1,0,19,-2,0,1
+DE,Germany,,,2020-03-08,12,19,31,2,1,0
+DE,Germany,,,2020-03-09,-1,2,7,-5,-1,1
+DE,Germany,,,2020-03-10,-7,-2,-13,-8,-1,3
+DE,Germany,,,2020-03-11,-1,2,17,-7,-1,2
+DE,Germany,,,2020-03-12,-7,6,4,-9,-2,2
+DE,Germany,,,2020-03-13,-9,19,-3,-15,-4,4
+DE,Germany,,,2020-03-14,-17,9,33,-19,-3,4
+DE,Germany,,,2020-03-15,-12,13,75,-16,-5,2
+DE,Germany,,,2020-03-16,-7,22,40,-25,-18,6
+DE,Germany,,,2020-03-17,-21,11,31,-35,-25,10
+DE,Germany,,,2020-03-18,-34,5,44,-39,-30,11
+DE,Germany,,,2020-03-19,-45,-3,15,-46,-33,14
+DE,Germany,,,2020-03-20,-50,-2,-14,-52,-36,16
+DE,Germany,,,2020-03-21,-69,-24,-31,-59,-31,13
+DE,Germany,,,2020-03-22,-71,-35,1,-58,-34,10
+DE,Germany,,,2020-03-23,-57,-16,-5,-56,-41,16
+DE,Germany,,,2020-03-24,-59,-18,9,-56,-43,18
+DE,Germany,,,2020-03-25,-58,-18,11,-56,-43,18
+DE,Germany,,,2020-03-26,-59,-16,3,-57,-44,18
+DE,Germany,,,2020-03-27,-59,-14,21,-56,-44,19
+DE,Germany,,,2020-03-28,-66,-21,33,-53,-33,12
+DE,Germany,,,2020-03-29,-77,-51,-49,-68,-39,11
+DE,Germany,,,2020-03-30,-54,-16,-13,-56,-43,17
+DE,Germany,,,2020-03-31,-53,-12,7,-53,-43,17
+DE,Germany,,,2020-04-01,-52,-13,20,-53,-43,17
+DE,Germany,,,2020-04-02,-54,-11,6,-54,-43,17
+DE,Germany,,,2020-04-03,-57,-11,-13,-57,-44,19
+DE,Germany,,,2020-04-04,-63,-16,21,-52,-31,12
+DE,Germany,,,2020-04-05,-58,-13,61,-47,-30,8
+DE,Germany,,,2020-04-06,-43,-6,49,-49,-44,15
+DE,Germany,,,2020-04-07,-44,-2,50,-50,-45,16
+DE,Germany,,,2020-04-08,-42,10,57,-49,-45,15
+DE,Germany,,,2020-04-09,-40,14,37,-49,-47,15
+DE,Germany,,,2020-04-10,-80,-92,72,-69,-86,29
+DE,Germany,,,2020-04-11,-56,0,35,-48,-29,10
+DE,Germany,,,2020-04-12,-63,-23,59,-47,-26,6
+DE,Germany,,,2020-04-13,-81,-93,29,-73,-88,28
+DE,Germany,,,2020-04-14,-45,1,8,-52,-45,17
+DE,Germany,,,2020-04-15,-45,-9,46,-49,-44,16
+DE,Germany,,,2020-04-16,-53,-3,57,-48,-43,16
+DE,Germany,,,2020-04-17,-55,-4,49,-49,-43,16
+DE,Germany,,,2020-04-18,-65,-14,35,-46,-22,10
+DE,Germany,,,2020-04-19,-59,-7,56,-44,-22,7
+DE,Germany,,,2020-04-20,-44,-9,35,-44,-36,13
+DE,Germany,,,2020-04-21,-47,-8,45,-44,-35,14
+DE,Germany,,,2020-04-22,-46,-8,60,-43,-35,13
+DE,Germany,,,2020-04-23,-47,-6,58,-42,-35,13
+DE,Germany,,,2020-04-24,-50,-7,38,-46,-36,14
+DE,Germany,,,2020-04-25,-57,-10,40,-41,-19,9
+DE,Germany,,,2020-04-26,-52,3,78,-39,-18,6
+DE,Germany,,,2020-04-27,-43,-13,57,-41,-33,12
+DE,Germany,,,2020-04-28,-48,-10,19,-43,-33,13
+DE,Germany,,,2020-04-29,-46,1,12,-43,-33,13
+DE,Germany,,,2020-04-30,-34,19,-8,-39,-34,12
+DE,Germany,,,2020-05-01,-82,-92,17,-67,-84,28
+DE,Germany,,,2020-05-02,-46,3,-18,-42,-20,9
+DE,Germany,,,2020-05-03,-57,4,43,-37,-18,6
+DE,Germany,,,2020-05-04,-32,-5,-1,-38,-30,11
+DE,Germany,,,2020-05-05,-36,-6,21,-37,-29,12
+DE,Germany,,,2020-05-06,-33,-5,49,-35,-28,11
+DE,Germany,,,2020-05-07,-33,-3,47,-35,-28,11
+DE,Germany,,,2020-05-08,-36,-5,60,-37,-31,11
+DE,Germany,,,2020-05-09,-40,-1,61,-28,-8,5
+DE,Germany,,,2020-05-10,-50,9,29,-33,-3,4
+DE,Germany,,,2020-05-11,-34,-12,-23,-41,-28,11
+DE,Germany,,,2020-05-12,-31,-4,14,-35,-26,11
+DE,Germany,,,2020-05-13,-31,-7,13,-36,-26,11
+DE,Germany,,,2020-05-14,-29,-4,20,-35,-26,10
+DE,Germany,,,2020-05-15,-29,-3,29,-35,-26,10
+DE,Germany,,,2020-05-16,-35,-6,53,-28,-5,5
+DE,Germany,,,2020-05-17,-36,16,92,-25,-1,3
+DE,Germany,,,2020-05-18,-15,-3,55,-30,-26,8
+DE,Germany,,,2020-05-19,-17,2,63,-30,-25,9
+DE,Germany,,,2020-05-20,-6,34,84,-25,-26,6
+DE,Germany,,,2020-05-21,-55,-87,225,-46,-81,18
+DE,Germany,,,2020-05-22,-19,1,68,-40,-51,14
+DE,Germany,,,2020-05-23,-35,-9,27,-35,-8,7
+DE,Germany,,,2020-05-24,-42,3,37,-31,-4,3
+DE,Germany,,,2020-05-25,-16,-2,33,-31,-27,8
+DE,Germany,Baden-Württemberg,,2020-02-15,6,1,52,10,3,-1
+DE,Germany,Baden-Württemberg,,2020-02-16,23,43,64,20,1,-2
+DE,Germany,Baden-Württemberg,,2020-02-17,0,-1,-11,0,-1,1
+DE,Germany,Baden-Württemberg,,2020-02-18,4,3,16,1,0,1
+DE,Germany,Baden-Württemberg,,2020-02-19,2,0,3,-2,-1,0
+DE,Germany,Baden-Württemberg,,2020-02-20,6,0,18,5,-4,0
+DE,Germany,Baden-Württemberg,,2020-02-21,1,1,16,-2,-11,2
+DE,Germany,Baden-Württemberg,,2020-02-22,2,-2,57,15,-3,-1
+DE,Germany,Baden-Württemberg,,2020-02-23,9,36,5,11,0,-1
+DE,Germany,Baden-Württemberg,,2020-02-24,11,-1,44,-7,-26,4
+DE,Germany,Baden-Württemberg,,2020-02-25,-1,-5,18,-13,-23,5
+DE,Germany,Baden-Württemberg,,2020-02-26,-5,-3,-7,-17,-18,4
+DE,Germany,Baden-Württemberg,,2020-02-27,-10,-2,-22,-18,-17,4
+DE,Germany,Baden-Württemberg,,2020-02-28,0,10,8,-11,-17,3
+DE,Germany,Baden-Württemberg,,2020-02-29,-5,3,3,-4,-4,1
+DE,Germany,Baden-Württemberg,,2020-03-01,9,20,40,6,-1,0
+DE,Germany,Baden-Württemberg,,2020-03-02,0,8,-2,-3,-1,1
+DE,Germany,Baden-Württemberg,,2020-03-03,-1,5,9,-5,-1,1
+DE,Germany,Baden-Württemberg,,2020-03-04,0,1,11,-5,-1,1
+DE,Germany,Baden-Württemberg,,2020-03-05,-9,-3,-24,-10,-2,2
+DE,Germany,Baden-Württemberg,,2020-03-06,-7,0,-21,-9,-3,3
+DE,Germany,Baden-Württemberg,,2020-03-07,-1,-1,7,-6,0,1
+DE,Germany,Baden-Württemberg,,2020-03-08,17,25,54,4,1,0
+DE,Germany,Baden-Württemberg,,2020-03-09,1,2,5,-4,-2,1
+DE,Germany,Baden-Württemberg,,2020-03-10,-9,-2,-17,-11,-2,3
+DE,Germany,Baden-Württemberg,,2020-03-11,-3,2,20,-7,-3,2
+DE,Germany,Baden-Württemberg,,2020-03-12,-9,5,-7,-12,-4,3
+DE,Germany,Baden-Württemberg,,2020-03-13,-9,20,8,-14,-6,4
+DE,Germany,Baden-Württemberg,,2020-03-14,-22,7,10,-25,-5,5
+DE,Germany,Baden-Württemberg,,2020-03-15,-7,22,111,-11,-7,2
+DE,Germany,Baden-Württemberg,,2020-03-16,-7,22,49,-21,-13,6
+DE,Germany,Baden-Württemberg,,2020-03-17,-25,10,36,-38,-27,11
+DE,Germany,Baden-Württemberg,,2020-03-18,-36,4,54,-41,-31,12
+DE,Germany,Baden-Württemberg,,2020-03-19,-46,-3,27,-47,-35,14
+DE,Germany,Baden-Württemberg,,2020-03-20,-51,-2,3,-51,-37,16
+DE,Germany,Baden-Württemberg,,2020-03-21,-74,-30,-64,-67,-34,15
+DE,Germany,Baden-Württemberg,,2020-03-22,-74,-31,-7,-60,-39,11
+DE,Germany,Baden-Württemberg,,2020-03-23,-56,-18,-9,-58,-42,18
+DE,Germany,Baden-Württemberg,,2020-03-24,-60,-20,5,-58,-43,19
+DE,Germany,Baden-Württemberg,,2020-03-25,-60,-21,2,-59,-44,19
+DE,Germany,Baden-Württemberg,,2020-03-26,-61,-19,-13,-60,-45,20
+DE,Germany,Baden-Württemberg,,2020-03-27,-59,-16,12,-58,-45,20
+DE,Germany,Baden-Württemberg,,2020-03-28,-66,-25,36,-53,-35,12
+DE,Germany,Baden-Württemberg,,2020-03-29,-79,-49,-55,-71,-43,12
+DE,Germany,Baden-Württemberg,,2020-03-30,-52,-17,2,-56,-44,18
+DE,Germany,Baden-Württemberg,,2020-03-31,-54,-15,13,-55,-44,19
+DE,Germany,Baden-Württemberg,,2020-04-01,-52,-16,31,-54,-44,18
+DE,Germany,Baden-Württemberg,,2020-04-02,-53,-13,20,-55,-45,18
+DE,Germany,Baden-Württemberg,,2020-04-03,-57,-12,-10,-58,-45,20
+DE,Germany,Baden-Württemberg,,2020-04-04,-63,-19,20,-53,-33,12
+DE,Germany,Baden-Württemberg,,2020-04-05,-60,-2,69,-46,-36,8
+DE,Germany,Baden-Württemberg,,2020-04-06,-42,-8,49,-51,-45,16
+DE,Germany,Baden-Württemberg,,2020-04-07,-45,-4,59,-51,-46,17
+DE,Germany,Baden-Württemberg,,2020-04-08,-44,8,52,-52,-46,16
+DE,Germany,Baden-Württemberg,,2020-04-09,-41,15,35,-51,-49,16
+DE,Germany,Baden-Württemberg,,2020-04-10,-81,-92,81,-70,-88,30
+DE,Germany,Baden-Württemberg,,2020-04-11,-57,-4,30,-49,-34,11
+DE,Germany,Baden-Württemberg,,2020-04-12,-69,-20,43,-51,-34,8
+DE,Germany,Baden-Württemberg,,2020-04-13,-77,-92,91,-70,-89,29
+DE,Germany,Baden-Württemberg,,2020-04-14,-44,1,21,-53,-47,18
+DE,Germany,Baden-Württemberg,,2020-04-15,-45,-11,54,-50,-46,17
+DE,Germany,Baden-Württemberg,,2020-04-16,-54,-4,51,-50,-45,17
+DE,Germany,Baden-Württemberg,,2020-04-17,-56,-5,40,-51,-45,18
+DE,Germany,Baden-Württemberg,,2020-04-18,-66,-17,31,-48,-26,11
+DE,Germany,Baden-Württemberg,,2020-04-19,-59,5,75,-43,-27,7
+DE,Germany,Baden-Württemberg,,2020-04-20,-45,-10,38,-46,-37,14
+DE,Germany,Baden-Württemberg,,2020-04-21,-49,-9,49,-46,-37,16
+DE,Germany,Baden-Württemberg,,2020-04-22,-49,-11,65,-46,-37,15
+DE,Germany,Baden-Württemberg,,2020-04-23,-50,-7,50,-46,-38,15
+DE,Germany,Baden-Württemberg,,2020-04-24,-52,-7,35,-48,-39,16
+DE,Germany,Baden-Württemberg,,2020-04-25,-58,-12,52,-40,-21,9
+DE,Germany,Baden-Württemberg,,2020-04-26,-52,15,90,-38,-24,6
+DE,Germany,Baden-Württemberg,,2020-04-27,-44,-15,60,-44,-36,13
+DE,Germany,Baden-Württemberg,,2020-04-28,-51,-13,9,-48,-36,15
+DE,Germany,Baden-Württemberg,,2020-04-29,-50,-2,15,-46,-37,15
+DE,Germany,Baden-Württemberg,,2020-04-30,-39,18,-27,-46,-39,14
+DE,Germany,Baden-Württemberg,,2020-05-01,-83,-92,-8,-72,-87,30
+DE,Germany,Baden-Württemberg,,2020-05-02,-50,-2,-22,-44,-23,10
+DE,Germany,Baden-Württemberg,,2020-05-03,-54,22,66,-32,-22,6
+DE,Germany,Baden-Württemberg,,2020-05-04,-32,-8,2,-39,-31,13
+DE,Germany,Baden-Württemberg,,2020-05-05,-38,-9,15,-40,-30,13
+DE,Germany,Baden-Württemberg,,2020-05-06,-36,-8,48,-36,-29,12
+DE,Germany,Baden-Württemberg,,2020-05-07,-35,-6,45,-36,-30,12
+DE,Germany,Baden-Württemberg,,2020-05-08,-37,-3,40,-37,-31,12
+DE,Germany,Baden-Württemberg,,2020-05-09,-41,-4,30,-32,-13,7
+DE,Germany,Baden-Württemberg,,2020-05-10,-48,23,47,-31,-7,4
+DE,Germany,Baden-Württemberg,,2020-05-11,-40,-18,-46,-46,-30,14
+DE,Germany,Baden-Württemberg,,2020-05-12,-32,-5,29,-34,-27,12
+DE,Germany,Baden-Württemberg,,2020-05-13,-39,-12,-18,-42,-28,13
+DE,Germany,Baden-Württemberg,,2020-05-14,-36,-7,-8,-40,-29,12
+DE,Germany,Baden-Württemberg,,2020-05-15,-35,-4,8,-38,-30,12
+DE,Germany,Baden-Württemberg,,2020-05-16,-39,-9,57,-28,-8,6
+DE,Germany,Baden-Württemberg,,2020-05-17,-40,37,112,-20,-7,3
+DE,Germany,Baden-Württemberg,,2020-05-18,-14,-6,69,-31,-28,10
+DE,Germany,Baden-Württemberg,,2020-05-19,-18,-1,81,-30,-28,10
+DE,Germany,Baden-Württemberg,,2020-05-20,-10,32,85,-27,-29,7
+DE,Germany,Baden-Württemberg,,2020-05-21,-54,-87,225,-49,-84,20
+DE,Germany,Baden-Württemberg,,2020-05-22,-19,3,80,-38,-54,15
+DE,Germany,Baden-Württemberg,,2020-05-23,-42,-15,-26,-46,-15,9
+DE,Germany,Baden-Württemberg,,2020-05-24,-34,25,87,-20,-4,3
+DE,Germany,Baden-Württemberg,,2020-05-25,-15,-5,49,-31,-28,10
+DE,Germany,Bavaria,,2020-02-15,7,2,37,13,1,-1
+DE,Germany,Bavaria,,2020-02-16,14,32,33,12,1,-1
+DE,Germany,Bavaria,,2020-02-17,1,2,10,1,0,0
+DE,Germany,Bavaria,,2020-02-18,3,3,25,1,1,1
+DE,Germany,Bavaria,,2020-02-19,1,-2,1,-1,0,0
+DE,Germany,Bavaria,,2020-02-20,4,1,11,1,-1,0
+DE,Germany,Bavaria,,2020-02-21,1,2,13,1,-3,0
+DE,Germany,Bavaria,,2020-02-22,3,1,50,10,-1,-1
+DE,Germany,Bavaria,,2020-02-23,7,37,0,6,-1,0
+DE,Germany,Bavaria,,2020-02-24,9,2,22,-12,-23,4
+DE,Germany,Bavaria,,2020-02-25,2,-5,34,-13,-26,6
+DE,Germany,Bavaria,,2020-02-26,-3,-4,-1,-14,-17,3
+DE,Germany,Bavaria,,2020-02-27,-4,0,-9,-13,-16,3
+DE,Germany,Bavaria,,2020-02-28,-4,5,-5,-11,-16,3
+DE,Germany,Bavaria,,2020-02-29,-2,4,3,1,-3,0
+DE,Germany,Bavaria,,2020-03-01,11,27,29,6,1,-1
+DE,Germany,Bavaria,,2020-03-02,1,10,10,-3,0,0
+DE,Germany,Bavaria,,2020-03-03,-2,5,5,-7,0,1
+DE,Germany,Bavaria,,2020-03-04,-2,2,7,-6,0,1
+DE,Germany,Bavaria,,2020-03-05,-6,0,-14,-9,-1,1
+DE,Germany,Bavaria,,2020-03-06,-6,1,-14,-9,-1,2
+DE,Germany,Bavaria,,2020-03-07,-3,0,-11,-7,0,1
+DE,Germany,Bavaria,,2020-03-08,20,39,47,4,1,-1
+DE,Germany,Bavaria,,2020-03-09,-3,3,0,-10,-1,1
+DE,Germany,Bavaria,,2020-03-10,-9,-2,-14,-13,-1,3
+DE,Germany,Bavaria,,2020-03-11,-4,3,11,-10,-2,2
+DE,Germany,Bavaria,,2020-03-12,-6,6,5,-13,-3,2
+DE,Germany,Bavaria,,2020-03-13,-12,22,-2,-17,-5,3
+DE,Germany,Bavaria,,2020-03-14,-19,9,3,-24,-4,4
+DE,Germany,Bavaria,,2020-03-15,-3,30,75,-15,-2,2
+DE,Germany,Bavaria,,2020-03-16,-4,25,39,-31,-20,7
+DE,Germany,Bavaria,,2020-03-17,-24,6,11,-41,-26,11
+DE,Germany,Bavaria,,2020-03-18,-42,-2,41,-44,-31,12
+DE,Germany,Bavaria,,2020-03-19,-48,-6,16,-50,-34,14
+DE,Germany,Bavaria,,2020-03-20,-49,4,-3,-52,-36,15
+DE,Germany,Bavaria,,2020-03-21,-85,-43,-72,-74,-40,17
+DE,Germany,Bavaria,,2020-03-22,-81,-48,-36,-71,-43,12
+DE,Germany,Bavaria,,2020-03-23,-67,-20,-24,-63,-43,19
+DE,Germany,Bavaria,,2020-03-24,-67,-23,-9,-63,-45,20
+DE,Germany,Bavaria,,2020-03-25,-68,-23,-19,-63,-46,20
+DE,Germany,Bavaria,,2020-03-26,-69,-21,-33,-65,-47,21
+DE,Germany,Bavaria,,2020-03-27,-68,-17,-3,-63,-46,21
+DE,Germany,Bavaria,,2020-03-28,-75,-23,6,-62,-38,14
+DE,Germany,Bavaria,,2020-03-29,-80,-49,-50,-73,-43,12
+DE,Germany,Bavaria,,2020-03-30,-63,-18,-21,-62,-45,19
+DE,Germany,Bavaria,,2020-03-31,-63,-17,-13,-60,-45,20
+DE,Germany,Bavaria,,2020-04-01,-62,-16,6,-59,-45,19
+DE,Germany,Bavaria,,2020-04-02,-62,-14,-2,-60,-46,19
+DE,Germany,Bavaria,,2020-04-03,-67,-13,-25,-63,-46,21
+DE,Germany,Bavaria,,2020-04-04,-73,-18,-10,-61,-37,14
+DE,Germany,Bavaria,,2020-04-05,-65,-19,21,-60,-39,10
+DE,Germany,Bavaria,,2020-04-06,-56,-8,22,-57,-46,18
+DE,Germany,Bavaria,,2020-04-07,-56,-6,37,-56,-47,18
+DE,Germany,Bavaria,,2020-04-08,-55,7,27,-56,-47,17
+DE,Germany,Bavaria,,2020-04-09,-53,14,8,-57,-49,17
+DE,Germany,Bavaria,,2020-04-10,-82,-93,39,-75,-88,31
+DE,Germany,Bavaria,,2020-04-11,-67,-2,5,-57,-35,12
+DE,Germany,Bavaria,,2020-04-12,-66,-26,26,-60,-38,10
+DE,Germany,Bavaria,,2020-04-13,-81,-94,24,-77,-89,31
+DE,Germany,Bavaria,,2020-04-14,-57,0,-8,-58,-47,19
+DE,Germany,Bavaria,,2020-04-15,-56,-11,25,-55,-46,18
+DE,Germany,Bavaria,,2020-04-16,-63,-5,29,-55,-46,18
+DE,Germany,Bavaria,,2020-04-17,-66,-7,25,-56,-46,19
+DE,Germany,Bavaria,,2020-04-18,-74,-15,4,-56,-29,12
+DE,Germany,Bavaria,,2020-04-19,-63,-9,20,-57,-31,9
+DE,Germany,Bavaria,,2020-04-20,-53,-11,14,-52,-38,15
+DE,Germany,Bavaria,,2020-04-21,-54,-11,33,-51,-38,16
+DE,Germany,Bavaria,,2020-04-22,-54,-11,43,-49,-38,15
+DE,Germany,Bavaria,,2020-04-23,-55,-9,34,-50,-38,16
+DE,Germany,Bavaria,,2020-04-24,-59,-9,12,-53,-39,17
+DE,Germany,Bavaria,,2020-04-25,-64,-11,27,-49,-25,10
+DE,Germany,Bavaria,,2020-04-26,-53,9,67,-48,-26,7
+DE,Germany,Bavaria,,2020-04-27,-46,-11,31,-47,-34,14
+DE,Germany,Bavaria,,2020-04-28,-51,-11,16,-48,-34,14
+DE,Germany,Bavaria,,2020-04-29,-52,-1,-7,-48,-34,15
+DE,Germany,Bavaria,,2020-04-30,-41,19,-25,-46,-36,14
+DE,Germany,Bavaria,,2020-05-01,-84,-92,-15,-73,-86,30
+DE,Germany,Bavaria,,2020-05-02,-52,4,-38,-51,-23,11
+DE,Germany,Bavaria,,2020-05-03,-60,8,29,-46,-24,8
+DE,Germany,Bavaria,,2020-05-04,-38,-5,-13,-45,-31,13
+DE,Germany,Bavaria,,2020-05-05,-42,-6,9,-43,-31,14
+DE,Germany,Bavaria,,2020-05-06,-39,-5,35,-39,-30,12
+DE,Germany,Bavaria,,2020-05-07,-36,-4,37,-40,-31,12
+DE,Germany,Bavaria,,2020-05-08,-40,-2,40,-41,-31,12
+DE,Germany,Bavaria,,2020-05-09,-45,0,18,-39,-14,7
+DE,Germany,Bavaria,,2020-05-10,-55,6,11,-44,-10,5
+DE,Germany,Bavaria,,2020-05-11,-36,-13,-32,-45,-29,13
+DE,Germany,Bavaria,,2020-05-12,-32,-3,20,-38,-27,12
+DE,Germany,Bavaria,,2020-05-13,-37,-8,-18,-42,-28,12
+DE,Germany,Bavaria,,2020-05-14,-34,-5,-15,-42,-28,11
+DE,Germany,Bavaria,,2020-05-15,-37,-4,-12,-42,-29,12
+DE,Germany,Bavaria,,2020-05-16,-38,-6,30,-35,-10,6
+DE,Germany,Bavaria,,2020-05-17,-42,24,89,-31,-10,3
+DE,Germany,Bavaria,,2020-05-18,-13,-4,64,-34,-26,9
+DE,Germany,Bavaria,,2020-05-19,-16,0,79,-33,-26,9
+DE,Germany,Bavaria,,2020-05-20,-10,32,50,-29,-28,7
+DE,Germany,Bavaria,,2020-05-21,-54,-87,162,-52,-83,20
+DE,Germany,Bavaria,,2020-05-22,-22,2,53,-40,-47,13
+DE,Germany,Bavaria,,2020-05-23,-42,-10,-33,-47,-14,8
+DE,Germany,Bavaria,,2020-05-24,-45,5,35,-35,-9,4
+DE,Germany,Bavaria,,2020-05-25,-18,-3,9,-37,-28,10
+DE,Germany,Berlin,,2020-02-15,5,6,46,5,1,-1
+DE,Germany,Berlin,,2020-02-16,1,3,-2,1,-2,0
+DE,Germany,Berlin,,2020-02-17,6,3,15,4,1,0
+DE,Germany,Berlin,,2020-02-18,2,0,3,-1,1,1
+DE,Germany,Berlin,,2020-02-19,0,-2,8,1,0,0
+DE,Germany,Berlin,,2020-02-20,2,0,11,0,0,0
+DE,Germany,Berlin,,2020-02-21,0,1,11,0,0,1
+DE,Germany,Berlin,,2020-02-22,1,1,28,3,1,0
+DE,Germany,Berlin,,2020-02-23,11,107,-24,-4,0,0
+DE,Germany,Berlin,,2020-02-24,4,1,10,0,0,1
+DE,Germany,Berlin,,2020-02-25,3,1,11,3,1,1
+DE,Germany,Berlin,,2020-02-26,-1,1,6,-1,0,1
+DE,Germany,Berlin,,2020-02-27,4,7,9,-1,0,1
+DE,Germany,Berlin,,2020-02-28,4,11,9,-1,0,1
+DE,Germany,Berlin,,2020-02-29,4,12,27,1,2,0
+DE,Germany,Berlin,,2020-03-01,7,14,11,3,1,-1
+DE,Germany,Berlin,,2020-03-02,3,12,6,-2,1,1
+DE,Germany,Berlin,,2020-03-03,-3,7,-8,-7,0,2
+DE,Germany,Berlin,,2020-03-04,-1,7,9,-2,0,1
+DE,Germany,Berlin,,2020-03-05,0,4,12,-5,0,1
+DE,Germany,Berlin,,2020-03-06,-10,-3,-15,-9,-2,3
+DE,Germany,Berlin,,2020-03-07,-4,1,5,-6,0,2
+DE,Germany,Berlin,,2020-03-08,7,13,18,-1,0,0
+DE,Germany,Berlin,,2020-03-09,-3,2,-3,-6,-1,2
+DE,Germany,Berlin,,2020-03-10,-9,-3,-17,-10,-2,3
+DE,Germany,Berlin,,2020-03-11,-4,6,14,-7,-3,2
+DE,Germany,Berlin,,2020-03-12,-10,8,-8,-14,-5,4
+DE,Germany,Berlin,,2020-03-13,-19,20,-22,-21,-9,6
+DE,Germany,Berlin,,2020-03-14,-21,18,25,-24,-4,4
+DE,Germany,Berlin,,2020-03-15,-37,-8,23,-30,-12,4
+DE,Germany,Berlin,,2020-03-16,-17,26,10,-28,-20,8
+DE,Germany,Berlin,,2020-03-17,-28,14,-1,-40,-34,13
+DE,Germany,Berlin,,2020-03-18,-40,10,16,-41,-39,13
+DE,Germany,Berlin,,2020-03-19,-50,0,-27,-50,-43,17
+DE,Germany,Berlin,,2020-03-20,-57,-1,-43,-56,-45,20
+DE,Germany,Berlin,,2020-03-21,-65,-11,-26,-58,-32,13
+DE,Germany,Berlin,,2020-03-22,-74,-34,-12,-60,-35,10
+DE,Germany,Berlin,,2020-03-23,-60,-11,-28,-57,-51,20
+DE,Germany,Berlin,,2020-03-24,-62,-14,-23,-59,-53,21
+DE,Germany,Berlin,,2020-03-25,-63,-13,-15,-58,-54,21
+DE,Germany,Berlin,,2020-03-26,-62,-13,-16,-59,-53,21
+DE,Germany,Berlin,,2020-03-27,-63,-13,-10,-59,-53,21
+DE,Germany,Berlin,,2020-03-28,-67,-15,6,-57,-36,12
+DE,Germany,Berlin,,2020-03-29,-83,-55,-63,-70,-44,12
+DE,Germany,Berlin,,2020-03-30,-61,-18,-51,-60,-53,21
+DE,Germany,Berlin,,2020-03-31,-59,-11,-36,-57,-53,21
+DE,Germany,Berlin,,2020-04-01,-58,-10,-17,-55,-53,20
+DE,Germany,Berlin,,2020-04-02,-59,-11,-28,-58,-54,21
+DE,Germany,Berlin,,2020-04-03,-63,-11,-32,-59,-53,22
+DE,Germany,Berlin,,2020-04-04,-65,-10,5,-56,-35,12
+DE,Germany,Berlin,,2020-04-05,-67,-17,33,-54,-33,8
+DE,Germany,Berlin,,2020-04-06,-50,-5,13,-52,-53,18
+DE,Germany,Berlin,,2020-04-07,-51,-2,11,-53,-53,18
+DE,Germany,Berlin,,2020-04-08,-50,8,24,-51,-53,16
+DE,Germany,Berlin,,2020-04-09,-48,14,-1,-53,-54,17
+DE,Germany,Berlin,,2020-04-10,-82,-91,16,-70,-85,29
+DE,Germany,Berlin,,2020-04-11,-59,6,10,-51,-31,10
+DE,Germany,Berlin,,2020-04-12,-67,-19,55,-50,-25,5
+DE,Germany,Berlin,,2020-04-13,-85,-93,-29,-75,-87,30
+DE,Germany,Berlin,,2020-04-14,-52,1,-21,-54,-54,19
+DE,Germany,Berlin,,2020-04-15,-53,-7,-1,-53,-53,19
+DE,Germany,Berlin,,2020-04-16,-61,2,20,-51,-52,18
+DE,Germany,Berlin,,2020-04-17,-64,0,13,-52,-51,18
+DE,Germany,Berlin,,2020-04-18,-68,-9,39,-47,-22,9
+DE,Germany,Berlin,,2020-04-19,-68,,38,-50,-23,7
+DE,Germany,Berlin,,2020-04-20,-58,-10,6,-49,-45,17
+DE,Germany,Berlin,,2020-04-21,-60,-9,8,-49,-45,17
+DE,Germany,Berlin,,2020-04-22,-56,-7,28,-46,-44,15
+DE,Germany,Berlin,,2020-04-23,-55,-6,31,-46,-44,15
+DE,Germany,Berlin,,2020-04-24,-60,-9,12,-49,-44,16
+DE,Germany,Berlin,,2020-04-25,-64,-7,3,-48,-22,10
+DE,Germany,Berlin,,2020-04-26,-65,,40,-47,-20,6
+DE,Germany,Berlin,,2020-04-27,-52,-9,26,-45,-41,14
+DE,Germany,Berlin,,2020-04-28,-54,-8,14,-46,-41,14
+DE,Germany,Berlin,,2020-04-29,-57,-4,-15,-45,-43,16
+DE,Germany,Berlin,,2020-04-30,-45,17,-10,-43,-43,14
+DE,Germany,Berlin,,2020-05-01,-82,-89,11,-64,-82,27
+DE,Germany,Berlin,,2020-05-02,-54,5,-18,-45,-21,10
+DE,Germany,Berlin,,2020-05-03,-70,,12,-48,-21,7
+DE,Germany,Berlin,,2020-05-04,-46,-6,-25,-44,-40,15
+DE,Germany,Berlin,,2020-05-05,-49,-7,-20,-45,-40,15
+DE,Germany,Berlin,,2020-05-06,-45,1,31,-39,-38,13
+DE,Germany,Berlin,,2020-05-07,-40,15,14,-40,-38,12
+DE,Germany,Berlin,,2020-05-08,-77,-86,59,-57,-74,20
+DE,Germany,Berlin,,2020-05-09,-45,8,70,-32,-7,3
+DE,Germany,Berlin,,2020-05-10,-62,-5,29,-38,-5,2
+DE,Germany,Berlin,,2020-05-11,-48,-12,-45,-45,-38,15
+DE,Germany,Berlin,,2020-05-12,-42,-2,-13,-40,-36,14
+DE,Germany,Berlin,,2020-05-13,-42,-4,9,-38,-35,13
+DE,Germany,Berlin,,2020-05-14,-40,-3,5,-40,-35,12
+DE,Germany,Berlin,,2020-05-15,-39,-7,10,-39,-33,11
+DE,Germany,Berlin,,2020-05-16,-43,-5,25,-36,-4,5
+DE,Germany,Berlin,,2020-05-17,-50,-9,53,-38,0,3
+DE,Germany,Berlin,,2020-05-18,-30,-6,10,-37,-33,11
+DE,Germany,Berlin,,2020-05-19,-32,-2,5,-37,-33,11
+DE,Germany,Berlin,,2020-05-20,-22,24,48,-29,-32,7
+DE,Germany,Berlin,,2020-05-21,-63,-86,86,-52,-78,16
+DE,Germany,Berlin,,2020-05-22,-35,-4,14,-46,-53,14
+DE,Germany,Berlin,,2020-05-23,-42,-10,9,-40,-6,6
+DE,Germany,Berlin,,2020-05-24,-56,-20,-19,-44,-10,3
+DE,Germany,Berlin,,2020-05-25,-31,-7,-17,-37,-36,12
+DE,Germany,Brandenburg,,2020-02-15,10,5,48,9,1,0
+DE,Germany,Brandenburg,,2020-02-16,3,0,-14,0,0,0
+DE,Germany,Brandenburg,,2020-02-17,3,4,9,1,0,1
+DE,Germany,Brandenburg,,2020-02-18,1,1,8,1,0,1
+DE,Germany,Brandenburg,,2020-02-19,0,-1,-2,-3,0,1
+DE,Germany,Brandenburg,,2020-02-20,2,1,10,0,-1,1
+DE,Germany,Brandenburg,,2020-02-21,0,1,0,-2,0,1
+DE,Germany,Brandenburg,,2020-02-22,4,1,25,3,-1,0
+DE,Germany,Brandenburg,,2020-02-23,-9,-7,-42,-9,0,1
+DE,Germany,Brandenburg,,2020-02-24,-1,2,5,-3,-1,1
+DE,Germany,Brandenburg,,2020-02-25,0,0,11,0,0,1
+DE,Germany,Brandenburg,,2020-02-26,-3,1,0,-3,0,1
+DE,Germany,Brandenburg,,2020-02-27,3,7,9,0,0,1
+DE,Germany,Brandenburg,,2020-02-28,4,10,5,0,0,1
+DE,Germany,Brandenburg,,2020-02-29,5,10,34,1,1,0
+DE,Germany,Brandenburg,,2020-03-01,15,23,23,6,2,0
+DE,Germany,Brandenburg,,2020-03-02,3,10,11,-2,0,1
+DE,Germany,Brandenburg,,2020-03-03,-1,4,3,-5,0,1
+DE,Germany,Brandenburg,,2020-03-04,2,5,17,0,1,1
+DE,Germany,Brandenburg,,2020-03-05,4,5,26,-1,0,1
+DE,Germany,Brandenburg,,2020-03-06,-3,0,-7,-6,-1,2
+DE,Germany,Brandenburg,,2020-03-07,4,4,19,-2,0,1
+DE,Germany,Brandenburg,,2020-03-08,29,23,43,8,6,-1
+DE,Germany,Brandenburg,,2020-03-09,-1,3,5,-4,-1,2
+DE,Germany,Brandenburg,,2020-03-10,-3,0,0,-6,-1,2
+DE,Germany,Brandenburg,,2020-03-11,3,5,30,-2,0,1
+DE,Germany,Brandenburg,,2020-03-12,-2,7,10,-7,-2,2
+DE,Germany,Brandenburg,,2020-03-13,-4,17,-4,-13,-3,3
+DE,Germany,Brandenburg,,2020-03-14,-2,21,78,-7,0,2
+DE,Germany,Brandenburg,,2020-03-15,-5,3,66,-11,0,2
+DE,Germany,Brandenburg,,2020-03-16,4,27,39,-16,-8,4
+DE,Germany,Brandenburg,,2020-03-17,0,21,45,-21,-14,6
+DE,Germany,Brandenburg,,2020-03-18,-17,12,65,-27,-24,9
+DE,Germany,Brandenburg,,2020-03-19,-27,6,22,-36,-28,12
+DE,Germany,Brandenburg,,2020-03-20,-36,1,-15,-45,-30,14
+DE,Germany,Brandenburg,,2020-03-21,-48,-8,25,-42,-20,10
+DE,Germany,Brandenburg,,2020-03-22,-55,-26,29,-43,-21,7
+DE,Germany,Brandenburg,,2020-03-23,-40,-4,-1,-48,-35,15
+DE,Germany,Brandenburg,,2020-03-24,-45,-10,10,-48,-38,16
+DE,Germany,Brandenburg,,2020-03-25,-44,-8,12,-47,-38,15
+DE,Germany,Brandenburg,,2020-03-26,-42,-6,19,-46,-38,16
+DE,Germany,Brandenburg,,2020-03-27,-44,-9,21,-48,-38,16
+DE,Germany,Brandenburg,,2020-03-28,-51,-10,76,-39,-23,10
+DE,Germany,Brandenburg,,2020-03-29,-75,-52,-53,-63,-31,9
+DE,Germany,Brandenburg,,2020-03-30,-42,-9,-22,-52,-38,16
+DE,Germany,Brandenburg,,2020-03-31,-40,-6,-3,-47,-38,16
+DE,Germany,Brandenburg,,2020-04-01,-39,-5,11,-44,-38,14
+DE,Germany,Brandenburg,,2020-04-02,-39,-4,0,-46,-38,15
+DE,Germany,Brandenburg,,2020-04-03,-41,-6,-8,-49,-38,16
+DE,Germany,Brandenburg,,2020-04-04,-47,-6,41,-40,-22,10
+DE,Germany,Brandenburg,,2020-04-05,-46,-7,70,-35,-17,6
+DE,Germany,Brandenburg,,2020-04-06,-24,4,37,-41,-39,13
+DE,Germany,Brandenburg,,2020-04-07,-25,7,46,-40,-40,13
+DE,Germany,Brandenburg,,2020-04-08,-22,22,54,-38,-40,12
+DE,Germany,Brandenburg,,2020-04-09,-18,23,47,-38,-42,12
+DE,Germany,Brandenburg,,2020-04-10,-80,-92,64,-63,-83,28
+DE,Germany,Brandenburg,,2020-04-11,-35,19,69,-32,-18,8
+DE,Germany,Brandenburg,,2020-04-12,-45,-11,116,-27,-10,3
+DE,Germany,Brandenburg,,2020-04-13,-83,-94,5,-70,-86,29
+DE,Germany,Brandenburg,,2020-04-14,-27,7,13,-43,-42,14
+DE,Germany,Brandenburg,,2020-04-15,-31,-3,28,-41,-41,14
+DE,Germany,Brandenburg,,2020-04-16,-42,9,59,-36,-39,14
+DE,Germany,Brandenburg,,2020-04-17,-45,4,37,-39,-38,14
+DE,Germany,Brandenburg,,2020-04-18,-51,0,95,-27,-11,7
+DE,Germany,Brandenburg,,2020-04-19,-45,-7,74,-30,-8,5
+DE,Germany,Brandenburg,,2020-04-20,-40,-3,22,-37,-29,12
+DE,Germany,Brandenburg,,2020-04-21,-44,-4,33,-36,-30,12
+DE,Germany,Brandenburg,,2020-04-22,-37,0,47,-32,-28,10
+DE,Germany,Brandenburg,,2020-04-23,-37,3,58,-32,-29,11
+DE,Germany,Brandenburg,,2020-04-24,-41,0,40,-35,-28,11
+DE,Germany,Brandenburg,,2020-04-25,-46,5,62,-26,-9,7
+DE,Germany,Brandenburg,,2020-04-26,-38,6,93,-25,-4,4
+DE,Germany,Brandenburg,,2020-04-27,-36,-9,48,-32,-25,10
+DE,Germany,Brandenburg,,2020-04-28,-38,-6,51,-31,-26,9
+DE,Germany,Brandenburg,,2020-04-29,-37,10,17,-31,-26,10
+DE,Germany,Brandenburg,,2020-04-30,-17,30,22,-27,-27,8
+DE,Germany,Brandenburg,,2020-05-01,-79,-92,62,-58,-80,26
+DE,Germany,Brandenburg,,2020-05-02,-28,20,25,-26,-9,7
+DE,Germany,Brandenburg,,2020-05-03,-48,0,48,-29,-6,4
+DE,Germany,Brandenburg,,2020-05-04,-25,1,-13,-33,-23,10
+DE,Germany,Brandenburg,,2020-05-05,-30,-3,1,-31,-23,10
+DE,Germany,Brandenburg,,2020-05-06,-26,1,31,-24,-20,8
+DE,Germany,Brandenburg,,2020-05-07,-21,7,33,-26,-21,8
+DE,Germany,Brandenburg,,2020-05-08,-15,7,100,-22,-32,11
+DE,Germany,Brandenburg,,2020-05-09,-26,8,153,-6,4,3
+DE,Germany,Brandenburg,,2020-05-10,-31,30,71,-12,12,1
+DE,Germany,Brandenburg,,2020-05-11,-29,-6,-30,-36,-22,10
+DE,Germany,Brandenburg,,2020-05-12,-24,0,3,-27,-20,9
+DE,Germany,Brandenburg,,2020-05-13,-22,0,20,-24,-19,8
+DE,Germany,Brandenburg,,2020-05-14,-19,3,28,-24,-19,7
+DE,Germany,Brandenburg,,2020-05-15,-17,2,46,-24,-17,7
+DE,Germany,Brandenburg,,2020-05-16,-20,4,97,-14,6,4
+DE,Germany,Brandenburg,,2020-05-17,-15,22,107,-13,14,1
+DE,Germany,Brandenburg,,2020-05-18,-7,4,38,-24,-19,7
+DE,Germany,Brandenburg,,2020-05-19,-8,10,44,-21,-19,7
+DE,Germany,Brandenburg,,2020-05-20,9,49,114,-9,-19,2
+DE,Germany,Brandenburg,,2020-05-21,-41,-87,338,-25,-78,16
+DE,Germany,Brandenburg,,2020-05-22,-10,3,121,-31,-52,13
+DE,Germany,Brandenburg,,2020-05-23,-18,1,120,-17,1,4
+DE,Germany,Brandenburg,,2020-05-24,-35,-2,36,-26,3,2
+DE,Germany,Brandenburg,,2020-05-25,-9,6,19,-25,-22,7
+DE,Germany,Bremen,,2020-02-15,4,3,93,13,0,-1
+DE,Germany,Bremen,,2020-02-16,-12,-20,7,-8,-3,0
+DE,Germany,Bremen,,2020-02-17,-2,0,14,1,0,0
+DE,Germany,Bremen,,2020-02-18,3,1,4,0,-1,1
+DE,Germany,Bremen,,2020-02-19,3,-3,1,0,-2,1
+DE,Germany,Bremen,,2020-02-20,3,0,-2,1,-1,1
+DE,Germany,Bremen,,2020-02-21,2,-1,19,3,-1,1
+DE,Germany,Bremen,,2020-02-22,7,-4,10,12,-3,1
+DE,Germany,Bremen,,2020-02-23,-12,-30,-28,-11,-4,1
+DE,Germany,Bremen,,2020-02-24,-9,-8,-7,-2,-1,1
+DE,Germany,Bremen,,2020-02-25,1,1,4,-1,0,1
+DE,Germany,Bremen,,2020-02-26,-1,1,5,-1,0,1
+DE,Germany,Bremen,,2020-02-27,0,4,-5,0,-1,1
+DE,Germany,Bremen,,2020-02-28,9,11,25,9,-1,0
+DE,Germany,Bremen,,2020-02-29,5,7,27,8,0,0
+DE,Germany,Bremen,,2020-03-01,-1,16,26,0,-1,0
+DE,Germany,Bremen,,2020-03-02,0,9,12,3,1,0
+DE,Germany,Bremen,,2020-03-03,6,6,12,0,0,1
+DE,Germany,Bremen,,2020-03-04,0,3,4,-2,-1,1
+DE,Germany,Bremen,,2020-03-05,0,2,12,-3,-1,1
+DE,Germany,Bremen,,2020-03-06,-3,-3,-13,-1,-2,2
+DE,Germany,Bremen,,2020-03-07,0,2,42,1,3,0
+DE,Germany,Bremen,,2020-03-08,-3,-7,25,-8,-1,0
+DE,Germany,Bremen,,2020-03-09,-2,1,23,0,0,0
+DE,Germany,Bremen,,2020-03-10,-5,-2,-21,-6,-1,2
+DE,Germany,Bremen,,2020-03-11,2,5,47,-2,-2,1
+DE,Germany,Bremen,,2020-03-12,-6,7,-7,-9,-4,3
+DE,Germany,Bremen,,2020-03-13,-11,17,-7,-13,-7,4
+DE,Germany,Bremen,,2020-03-14,-20,12,43,-19,-4,3
+DE,Germany,Bremen,,2020-03-15,-35,-13,60,-31,-8,3
+DE,Germany,Bremen,,2020-03-16,-10,19,42,-26,-21,6
+DE,Germany,Bremen,,2020-03-17,-15,14,8,-36,-27,9
+DE,Germany,Bremen,,2020-03-18,-40,4,11,-41,-32,11
+DE,Germany,Bremen,,2020-03-19,-48,-3,-15,-49,-36,14
+DE,Germany,Bremen,,2020-03-20,-53,-5,-15,-53,-38,16
+DE,Germany,Bremen,,2020-03-21,-68,-19,-20,-60,-30,12
+DE,Germany,Bremen,,2020-03-22,-74,-44,36,-65,-35,8
+DE,Germany,Bremen,,2020-03-23,-55,-15,0,-56,-43,16
+DE,Germany,Bremen,,2020-03-24,-57,-17,8,-58,-46,17
+DE,Germany,Bremen,,2020-03-25,-57,-15,31,-57,-46,17
+DE,Germany,Bremen,,2020-03-26,-56,-14,12,-58,-46,17
+DE,Germany,Bremen,,2020-03-27,-58,-13,42,-58,-46,18
+DE,Germany,Bremen,,2020-03-28,-68,-18,14,-61,-35,12
+DE,Germany,Bremen,,2020-03-29,-79,-54,-22,-74,-40,10
+DE,Germany,Bremen,,2020-03-30,-56,-17,-31,-58,-47,17
+DE,Germany,Bremen,,2020-03-31,-49,-6,18,-52,-46,16
+DE,Germany,Bremen,,2020-04-01,-54,-12,-13,-58,-48,17
+DE,Germany,Bremen,,2020-04-02,-54,-11,-12,-58,-48,18
+DE,Germany,Bremen,,2020-04-03,-57,-10,-4,-59,-48,18
+DE,Germany,Bremen,,2020-04-04,-65,-12,20,-57,-35,12
+DE,Germany,Bremen,,2020-04-05,-64,-22,111,-59,-32,7
+DE,Germany,Bremen,,2020-04-06,-45,-5,86,-51,-47,14
+DE,Germany,Bremen,,2020-04-07,-45,-1,53,-54,-48,15
+DE,Germany,Bremen,,2020-04-08,-45,10,71,-53,-48,14
+DE,Germany,Bremen,,2020-04-09,-41,17,38,-53,-50,14
+DE,Germany,Bremen,,2020-04-10,-83,-92,66,-74,-85,27
+DE,Germany,Bremen,,2020-04-11,-60,5,31,-55,-31,9
+DE,Germany,Bremen,,2020-04-12,-69,-35,107,-60,-25,5
+DE,Germany,Bremen,,2020-04-13,-85,-93,15,-76,-87,26
+DE,Germany,Bremen,,2020-04-14,-47,2,-13,-55,-47,16
+DE,Germany,Bremen,,2020-04-15,-48,-7,61,-50,-45,15
+DE,Germany,Bremen,,2020-04-16,-57,2,48,-52,-44,15
+DE,Germany,Bremen,,2020-04-17,-59,-2,65,-52,-43,16
+DE,Germany,Bremen,,2020-04-18,-69,-12,51,-51,-23,9
+DE,Germany,Bremen,,2020-04-19,-68,-22,99,-56,-21,6
+DE,Germany,Bremen,,2020-04-20,-49,-8,48,-46,-38,12
+DE,Germany,Bremen,,2020-04-21,-49,-6,42,-47,-38,13
+DE,Germany,Bremen,,2020-04-22,-50,-5,64,-46,-38,13
+DE,Germany,Bremen,,2020-04-23,-50,-2,66,-46,-38,13
+DE,Germany,Bremen,,2020-04-24,-55,-6,32,-50,-38,14
+DE,Germany,Bremen,,2020-04-25,-63,-7,29,-50,-21,9
+DE,Germany,Bremen,,2020-04-26,-70,-25,76,-58,-23,7
+DE,Germany,Bremen,,2020-04-27,-51,-15,71,-44,-34,11
+DE,Germany,Bremen,,2020-04-28,-52,-9,8,-48,-36,12
+DE,Germany,Bremen,,2020-04-29,-53,0,-3,-47,-37,14
+DE,Germany,Bremen,,2020-04-30,-37,24,-5,-40,-37,11
+DE,Germany,Bremen,,2020-05-01,-87,-92,-10,-73,-83,28
+DE,Germany,Bremen,,2020-05-02,-51,7,-26,-47,-20,9
+DE,Germany,Bremen,,2020-05-03,-71,-23,61,-55,-20,7
+DE,Germany,Bremen,,2020-05-04,-37,-3,21,-40,-32,11
+DE,Germany,Bremen,,2020-05-05,-41,-3,12,-42,-32,12
+DE,Germany,Bremen,,2020-05-06,-41,-3,47,-40,-31,11
+DE,Germany,Bremen,,2020-05-07,-39,-4,41,-43,-32,11
+DE,Germany,Bremen,,2020-05-08,-41,-6,75,-41,-30,11
+DE,Germany,Bremen,,2020-05-09,-51,-4,75,-36,-10,5
+DE,Germany,Bremen,,2020-05-10,-65,-11,93,-48,-6,3
+DE,Germany,Bremen,,2020-05-11,-38,-9,0,-42,-30,11
+DE,Germany,Bremen,,2020-05-12,-40,-9,-20,-44,-31,12
+DE,Germany,Bremen,,2020-05-13,-38,-6,0,-43,-31,11
+DE,Germany,Bremen,,2020-05-14,-35,-4,23,-43,-29,10
+DE,Germany,Bremen,,2020-05-15,-39,-7,14,-42,-30,11
+DE,Germany,Bremen,,2020-05-16,-46,-9,20,-41,-10,6
+DE,Germany,Bremen,,2020-05-17,-63,-14,110,-47,-6,4
+DE,Germany,Bremen,,2020-05-18,-26,-7,40,-37,-27,9
+DE,Germany,Bremen,,2020-05-19,-24,-1,36,-38,-28,9
+DE,Germany,Bremen,,2020-05-20,-17,33,61,-32,-28,6
+DE,Germany,Bremen,,2020-05-21,-66,-87,185,-55,-79,17
+DE,Germany,Bremen,,2020-05-22,-28,-3,15,-48,-52,15
+DE,Germany,Bremen,,2020-05-23,-40,-7,27,-39,-8,6
+DE,Germany,Bremen,,2020-05-24,-61,-20,38,-47,-5,4
+DE,Germany,Bremen,,2020-05-25,-25,-5,20,-37,-28,8
+DE,Germany,Hamburg,,2020-02-15,6,2,51,10,1,-1
+DE,Germany,Hamburg,,2020-02-16,-2,9,-2,0,0,1
+DE,Germany,Hamburg,,2020-02-17,4,2,23,2,1,0
+DE,Germany,Hamburg,,2020-02-18,5,2,13,3,0,0
+DE,Germany,Hamburg,,2020-02-19,-2,-3,-9,-3,-1,1
+DE,Germany,Hamburg,,2020-02-20,-3,-1,-8,0,-1,1
+DE,Germany,Hamburg,,2020-02-21,2,1,15,6,-1,0
+DE,Germany,Hamburg,,2020-02-22,2,-5,0,8,-1,1
+DE,Germany,Hamburg,,2020-02-23,-4,-3,-26,0,-2,1
+DE,Germany,Hamburg,,2020-02-24,-3,-6,0,-1,-2,2
+DE,Germany,Hamburg,,2020-02-25,1,4,7,-1,-1,1
+DE,Germany,Hamburg,,2020-02-26,-1,4,4,-3,-1,1
+DE,Germany,Hamburg,,2020-02-27,1,6,10,-1,-1,1
+DE,Germany,Hamburg,,2020-02-28,6,14,16,3,-1,0
+DE,Germany,Hamburg,,2020-02-29,-2,3,11,3,1,-1
+DE,Germany,Hamburg,,2020-03-01,-2,-1,1,1,1,0
+DE,Germany,Hamburg,,2020-03-02,3,4,20,-4,-13,2
+DE,Germany,Hamburg,,2020-03-03,-1,1,-2,-9,-14,3
+DE,Germany,Hamburg,,2020-03-04,-4,-2,-7,-11,-14,3
+DE,Germany,Hamburg,,2020-03-05,-4,-3,11,-9,-14,3
+DE,Germany,Hamburg,,2020-03-06,-9,-7,-22,-11,-15,3
+DE,Germany,Hamburg,,2020-03-07,-1,-6,29,4,-1,-1
+DE,Germany,Hamburg,,2020-03-08,-4,0,9,-3,0,-1
+DE,Germany,Hamburg,,2020-03-09,-3,-3,4,-10,-16,3
+DE,Germany,Hamburg,,2020-03-10,-8,-7,-24,-13,-16,4
+DE,Germany,Hamburg,,2020-03-11,-1,2,37,-11,-16,3
+DE,Germany,Hamburg,,2020-03-12,-14,1,-22,-18,-18,5
+DE,Germany,Hamburg,,2020-03-13,-19,12,-24,-22,-20,6
+DE,Germany,Hamburg,,2020-03-14,-25,12,40,-20,-5,2
+DE,Germany,Hamburg,,2020-03-15,-37,-10,36,-29,-8,4
+DE,Germany,Hamburg,,2020-03-16,-20,22,37,-33,-28,11
+DE,Germany,Hamburg,,2020-03-17,-38,14,14,-41,-37,14
+DE,Germany,Hamburg,,2020-03-18,-49,5,-2,-49,-41,17
+DE,Germany,Hamburg,,2020-03-19,-54,-3,-1,-54,-45,19
+DE,Germany,Hamburg,,2020-03-20,-58,-3,-4,-58,-46,20
+DE,Germany,Hamburg,,2020-03-21,-71,-18,-2,-61,-35,13
+DE,Germany,Hamburg,,2020-03-22,-75,-41,16,-64,-37,11
+DE,Germany,Hamburg,,2020-03-23,-60,-14,16,-61,-50,21
+DE,Germany,Hamburg,,2020-03-24,-61,-15,24,-61,-52,22
+DE,Germany,Hamburg,,2020-03-25,-63,-15,21,-62,-52,22
+DE,Germany,Hamburg,,2020-03-26,-62,-14,27,-62,-52,22
+DE,Germany,Hamburg,,2020-03-27,-62,-11,51,-61,-52,21
+DE,Germany,Hamburg,,2020-03-28,-69,-18,45,-60,-38,13
+DE,Germany,Hamburg,,2020-03-29,-80,-50,-34,-72,-42,12
+DE,Germany,Hamburg,,2020-03-30,-61,-19,-20,-61,-51,22
+DE,Germany,Hamburg,,2020-03-31,-56,-8,22,-57,-51,21
+DE,Germany,Hamburg,,2020-04-01,-61,-14,-18,-61,-52,22
+DE,Germany,Hamburg,,2020-04-02,-60,-12,-7,-61,-52,22
+DE,Germany,Hamburg,,2020-04-03,-63,-10,-5,-61,-51,22
+DE,Germany,Hamburg,,2020-04-04,-68,-12,28,-59,-36,13
+DE,Germany,Hamburg,,2020-04-05,-65,-20,80,-56,-34,9
+DE,Germany,Hamburg,,2020-04-06,-50,-5,113,-54,-50,19
+DE,Germany,Hamburg,,2020-04-07,-52,2,81,-55,-51,19
+DE,Germany,Hamburg,,2020-04-08,-52,10,68,-56,-51,19
+DE,Germany,Hamburg,,2020-04-09,-50,19,41,-56,-52,19
+DE,Germany,Hamburg,,2020-04-10,-84,-91,90,-74,-87,32
+DE,Germany,Hamburg,,2020-04-11,-62,2,45,-56,-34,11
+DE,Germany,Hamburg,,2020-04-12,-68,-22,91,-56,-31,7
+DE,Germany,Hamburg,,2020-04-13,-84,-92,72,-75,-89,31
+DE,Germany,Hamburg,,2020-04-14,-53,3,4,-57,-51,20
+DE,Germany,Hamburg,,2020-04-15,-54,-5,47,-55,-51,20
+DE,Germany,Hamburg,,2020-04-16,-63,2,56,-55,-50,20
+DE,Germany,Hamburg,,2020-04-17,-64,3,86,-54,-48,19
+DE,Germany,Hamburg,,2020-04-18,-71,-12,79,-50,-27,10
+DE,Germany,Hamburg,,2020-04-19,-68,-10,80,-54,-26,8
+DE,Germany,Hamburg,,2020-04-20,-55,-11,74,-50,-45,18
+DE,Germany,Hamburg,,2020-04-21,-56,-6,73,-49,-45,18
+DE,Germany,Hamburg,,2020-04-22,-57,-7,72,-50,-45,17
+DE,Germany,Hamburg,,2020-04-23,-58,-6,97,-49,-45,17
+DE,Germany,Hamburg,,2020-04-24,-60,-6,60,-51,-44,17
+DE,Germany,Hamburg,,2020-04-25,-65,-9,49,-47,-24,10
+DE,Germany,Hamburg,,2020-04-26,-70,-14,50,-55,-28,8
+DE,Germany,Hamburg,,2020-04-27,-54,-14,111,-47,-42,16
+DE,Germany,Hamburg,,2020-04-28,-57,-8,39,-49,-44,16
+DE,Germany,Hamburg,,2020-04-29,-59,-3,-7,-51,-44,18
+DE,Germany,Hamburg,,2020-04-30,-47,17,5,-47,-44,16
+DE,Germany,Hamburg,,2020-05-01,-86,-91,34,-71,-86,31
+DE,Germany,Hamburg,,2020-05-02,-54,4,-1,-47,-24,10
+DE,Germany,Hamburg,,2020-05-03,-72,-5,41,-53,-25,8
+DE,Germany,Hamburg,,2020-05-04,-42,-5,55,-43,-40,15
+DE,Germany,Hamburg,,2020-05-05,-46,-4,58,-44,-40,16
+DE,Germany,Hamburg,,2020-05-06,-47,-4,67,-44,-40,15
+DE,Germany,Hamburg,,2020-05-07,-48,-4,56,-46,-40,15
+DE,Germany,Hamburg,,2020-05-08,-47,-3,108,-42,-38,13
+DE,Germany,Hamburg,,2020-05-09,-53,-5,116,-35,-13,5
+DE,Germany,Hamburg,,2020-05-10,-61,-6,81,-42,-10,4
+DE,Germany,Hamburg,,2020-05-11,-46,-8,25,-45,-39,15
+DE,Germany,Hamburg,,2020-05-12,-49,-7,-10,-46,-39,16
+DE,Germany,Hamburg,,2020-05-13,-43,-5,5,-45,-37,15
+DE,Germany,Hamburg,,2020-05-14,-37,-4,38,-43,-37,13
+DE,Germany,Hamburg,,2020-05-15,-41,-7,9,-45,-37,14
+DE,Germany,Hamburg,,2020-05-16,-44,-8,27,-40,-10,6
+DE,Germany,Hamburg,,2020-05-17,-55,-14,55,-45,-5,5
+DE,Germany,Hamburg,,2020-05-18,-30,-7,45,-42,-40,13
+DE,Germany,Hamburg,,2020-05-19,-29,0,72,-40,-40,12
+DE,Germany,Hamburg,,2020-05-20,-23,25,83,-36,-40,9
+DE,Germany,Hamburg,,2020-05-21,-66,-87,219,-56,-82,20
+DE,Germany,Hamburg,,2020-05-22,-34,-3,17,-49,-54,15
+DE,Germany,Hamburg,,2020-05-23,-42,-11,27,-40,-7,5
+DE,Germany,Hamburg,,2020-05-24,-56,-20,8,-46,-9,3
+DE,Germany,Hamburg,,2020-05-25,-27,-4,45,-39,-37,12
+DE,Germany,Hesse,,2020-02-15,7,3,42,7,2,0
+DE,Germany,Hesse,,2020-02-16,11,16,35,7,0,-1
+DE,Germany,Hesse,,2020-02-17,-1,0,5,-1,1,0
+DE,Germany,Hesse,,2020-02-18,0,1,6,-1,1,0
+DE,Germany,Hesse,,2020-02-19,1,0,5,-3,0,0
+DE,Germany,Hesse,,2020-02-20,0,-1,0,3,-1,0
+DE,Germany,Hesse,,2020-02-21,3,2,17,2,-2,1
+DE,Germany,Hesse,,2020-02-22,2,1,25,7,-1,0
+DE,Germany,Hesse,,2020-02-23,5,25,-12,7,-2,0
+DE,Germany,Hesse,,2020-02-24,1,-6,1,-4,-18,3
+DE,Germany,Hesse,,2020-02-25,0,-1,12,-5,-12,3
+DE,Germany,Hesse,,2020-02-26,-5,0,-6,-6,-2,2
+DE,Germany,Hesse,,2020-02-27,-9,0,-12,-2,-1,2
+DE,Germany,Hesse,,2020-02-28,2,14,15,1,0,1
+DE,Germany,Hesse,,2020-02-29,-1,8,6,1,1,1
+DE,Germany,Hesse,,2020-03-01,9,24,37,4,0,0
+DE,Germany,Hesse,,2020-03-02,0,10,13,-3,1,0
+DE,Germany,Hesse,,2020-03-03,-1,6,12,-7,0,0
+DE,Germany,Hesse,,2020-03-04,2,2,8,-7,0,1
+DE,Germany,Hesse,,2020-03-05,-7,-2,-17,-8,-1,2
+DE,Germany,Hesse,,2020-03-06,-3,0,-8,-7,0,2
+DE,Germany,Hesse,,2020-03-07,2,0,31,-3,1,1
+DE,Germany,Hesse,,2020-03-08,12,21,53,-3,0,0
+DE,Germany,Hesse,,2020-03-09,-1,1,18,-8,0,1
+DE,Germany,Hesse,,2020-03-10,-9,-2,-13,-12,-2,2
+DE,Germany,Hesse,,2020-03-11,-3,1,3,-13,-2,2
+DE,Germany,Hesse,,2020-03-12,-7,6,0,-12,-3,2
+DE,Germany,Hesse,,2020-03-13,-8,20,7,-16,-3,3
+DE,Germany,Hesse,,2020-03-14,-17,11,27,-24,-3,4
+DE,Germany,Hesse,,2020-03-15,-5,21,127,-22,-6,2
+DE,Germany,Hesse,,2020-03-16,-9,21,48,-32,-20,6
+DE,Germany,Hesse,,2020-03-17,-18,13,35,-41,-28,10
+DE,Germany,Hesse,,2020-03-18,-37,5,39,-47,-33,12
+DE,Germany,Hesse,,2020-03-19,-45,-3,23,-51,-36,14
+DE,Germany,Hesse,,2020-03-20,-49,0,-2,-56,-38,16
+DE,Germany,Hesse,,2020-03-21,-67,-21,-35,-62,-31,14
+DE,Germany,Hesse,,2020-03-22,-69,-25,32,-63,-37,9
+DE,Germany,Hesse,,2020-03-23,-57,-17,2,-63,-43,17
+DE,Germany,Hesse,,2020-03-24,-59,-18,16,-63,-46,18
+DE,Germany,Hesse,,2020-03-25,-58,-18,16,-64,-46,18
+DE,Germany,Hesse,,2020-03-26,-59,-17,5,-64,-47,19
+DE,Germany,Hesse,,2020-03-27,-57,-14,36,-63,-46,19
+DE,Germany,Hesse,,2020-03-28,-63,-21,54,-62,-34,12
+DE,Germany,Hesse,,2020-03-29,-74,-40,-26,-72,-41,10
+DE,Germany,Hesse,,2020-03-30,-51,-16,13,-63,-45,17
+DE,Germany,Hesse,,2020-03-31,-52,-13,16,-61,-45,17
+DE,Germany,Hesse,,2020-04-01,-51,-14,36,-62,-45,17
+DE,Germany,Hesse,,2020-04-02,-52,-12,21,-63,-46,18
+DE,Germany,Hesse,,2020-04-03,-56,-11,-9,-65,-45,19
+DE,Germany,Hesse,,2020-04-04,-60,-16,38,-63,-32,12
+DE,Germany,Hesse,,2020-04-05,-59,-6,96,-62,-34,8
+DE,Germany,Hesse,,2020-04-06,-43,-8,57,-61,-47,15
+DE,Germany,Hesse,,2020-04-07,-44,-2,56,-61,-48,16
+DE,Germany,Hesse,,2020-04-08,-42,9,60,-61,-48,15
+DE,Germany,Hesse,,2020-04-09,-41,10,39,-61,-50,16
+DE,Germany,Hesse,,2020-04-10,-80,-92,103,-76,-86,28
+DE,Germany,Hesse,,2020-04-11,-53,-1,54,-62,-32,11
+DE,Germany,Hesse,,2020-04-12,-65,-16,79,-67,-30,7
+DE,Germany,Hesse,,2020-04-13,-82,-93,18,-80,-88,29
+DE,Germany,Hesse,,2020-04-14,-44,-1,17,-62,-48,16
+DE,Germany,Hesse,,2020-04-15,-44,-10,55,-61,-47,16
+DE,Germany,Hesse,,2020-04-16,-52,-4,62,-60,-47,16
+DE,Germany,Hesse,,2020-04-17,-54,-4,71,-60,-45,17
+DE,Germany,Hesse,,2020-04-18,-64,-15,37,-61,-24,11
+DE,Germany,Hesse,,2020-04-19,-63,-3,72,-61,-28,7
+DE,Germany,Hesse,,2020-04-20,-45,-11,51,-57,-38,14
+DE,Germany,Hesse,,2020-04-21,-47,-9,57,-56,-39,14
+DE,Germany,Hesse,,2020-04-22,-46,-9,68,-57,-39,14
+DE,Germany,Hesse,,2020-04-23,-48,-7,58,-56,-39,14
+DE,Germany,Hesse,,2020-04-24,-50,-7,53,-58,-38,15
+DE,Germany,Hesse,,2020-04-25,-55,-9,64,-55,-18,9
+DE,Germany,Hesse,,2020-04-26,-49,15,124,-56,-22,6
+DE,Germany,Hesse,,2020-04-27,-44,-15,69,-55,-35,13
+DE,Germany,Hesse,,2020-04-28,-50,-12,9,-56,-37,13
+DE,Germany,Hesse,,2020-04-29,-46,0,33,-55,-36,14
+DE,Germany,Hesse,,2020-04-30,-38,15,-22,-54,-38,13
+DE,Germany,Hesse,,2020-05-01,-83,-92,5,-76,-85,29
+DE,Germany,Hesse,,2020-05-02,-46,0,-14,-57,-22,10
+DE,Germany,Hesse,,2020-05-03,-55,15,73,-54,-21,6
+DE,Germany,Hesse,,2020-05-04,-35,-9,-7,-53,-34,13
+DE,Germany,Hesse,,2020-05-05,-36,-8,37,-51,-33,12
+DE,Germany,Hesse,,2020-05-06,-35,-7,53,-50,-32,12
+DE,Germany,Hesse,,2020-05-07,-35,-6,51,-50,-32,12
+DE,Germany,Hesse,,2020-05-08,-36,-4,64,-49,-32,12
+DE,Germany,Hesse,,2020-05-09,-42,-3,25,-49,-12,7
+DE,Germany,Hesse,,2020-05-10,-49,16,48,-52,-9,5
+DE,Germany,Hesse,,2020-05-11,-42,-19,-33,-55,-33,13
+DE,Germany,Hesse,,2020-05-12,-33,-7,30,-48,-31,12
+DE,Germany,Hesse,,2020-05-13,-33,-8,28,-50,-30,12
+DE,Germany,Hesse,,2020-05-14,-33,-6,23,-49,-30,11
+DE,Germany,Hesse,,2020-05-15,-27,-5,59,-46,-29,10
+DE,Germany,Hesse,,2020-05-16,-33,-7,76,-42,-4,5
+DE,Germany,Hesse,,2020-05-17,-28,32,137,-43,-3,3
+DE,Germany,Hesse,,2020-05-18,-19,-7,63,-44,-28,9
+DE,Germany,Hesse,,2020-05-19,-20,-1,68,-44,-28,9
+DE,Germany,Hesse,,2020-05-20,-10,30,75,-40,-29,7
+DE,Germany,Hesse,,2020-05-21,-56,-87,189,-60,-81,19
+DE,Germany,Hesse,,2020-05-22,-19,0,68,-50,-50,14
+DE,Germany,Hesse,,2020-05-23,-35,-9,12,-48,-10,8
+DE,Germany,Hesse,,2020-05-24,-35,17,68,-43,-5,3
+DE,Germany,Hesse,,2020-05-25,-19,-7,46,-43,-29,9
+DE,Germany,Lower Saxony,,2020-02-15,9,1,50,17,0,-1
+DE,Germany,Lower Saxony,,2020-02-16,2,8,-5,2,-2,0
+DE,Germany,Lower Saxony,,2020-02-17,1,2,14,3,0,0
+DE,Germany,Lower Saxony,,2020-02-18,1,1,7,0,0,1
+DE,Germany,Lower Saxony,,2020-02-19,2,-1,5,-1,0,1
+DE,Germany,Lower Saxony,,2020-02-20,0,1,2,0,-1,1
+DE,Germany,Lower Saxony,,2020-02-21,2,3,22,3,-1,1
+DE,Germany,Lower Saxony,,2020-02-22,-1,-1,13,7,-1,1
+DE,Germany,Lower Saxony,,2020-02-23,-5,-3,-32,-5,-3,1
+DE,Germany,Lower Saxony,,2020-02-24,-4,-3,4,-1,-2,1
+DE,Germany,Lower Saxony,,2020-02-25,0,2,17,1,0,1
+DE,Germany,Lower Saxony,,2020-02-26,-1,0,9,-2,-1,1
+DE,Germany,Lower Saxony,,2020-02-27,1,6,6,0,-1,1
+DE,Germany,Lower Saxony,,2020-02-28,6,11,26,4,0,1
+DE,Germany,Lower Saxony,,2020-02-29,5,6,27,8,1,0
+DE,Germany,Lower Saxony,,2020-03-01,15,29,29,9,2,0
+DE,Germany,Lower Saxony,,2020-03-02,6,10,22,4,1,0
+DE,Germany,Lower Saxony,,2020-03-03,4,6,18,-1,0,1
+DE,Germany,Lower Saxony,,2020-03-04,3,4,14,-2,0,1
+DE,Germany,Lower Saxony,,2020-03-05,2,3,14,-2,0,1
+DE,Germany,Lower Saxony,,2020-03-06,-2,0,-11,-4,-1,2
+DE,Germany,Lower Saxony,,2020-03-07,6,1,44,5,2,0
+DE,Germany,Lower Saxony,,2020-03-08,16,26,36,6,2,0
+DE,Germany,Lower Saxony,,2020-03-09,1,3,17,-1,0,0
+DE,Germany,Lower Saxony,,2020-03-10,-3,0,-9,-6,-1,2
+DE,Germany,Lower Saxony,,2020-03-11,4,5,36,-2,-1,1
+DE,Germany,Lower Saxony,,2020-03-12,-4,9,3,-7,-2,2
+DE,Germany,Lower Saxony,,2020-03-13,-9,19,-2,-11,-4,4
+DE,Germany,Lower Saxony,,2020-03-14,-13,10,57,-11,-2,3
+DE,Germany,Lower Saxony,,2020-03-15,-13,18,82,-11,-6,3
+DE,Germany,Lower Saxony,,2020-03-16,-5,22,46,-22,-20,6
+DE,Germany,Lower Saxony,,2020-03-17,-24,13,36,-31,-26,9
+DE,Germany,Lower Saxony,,2020-03-18,-34,5,36,-36,-30,11
+DE,Germany,Lower Saxony,,2020-03-19,-45,-3,1,-44,-34,13
+DE,Germany,Lower Saxony,,2020-03-20,-51,-4,-16,-50,-37,16
+DE,Germany,Lower Saxony,,2020-03-21,-65,-21,-13,-50,-27,12
+DE,Germany,Lower Saxony,,2020-03-22,-69,-35,23,-50,-31,9
+DE,Germany,Lower Saxony,,2020-03-23,-60,-15,1,-52,-40,15
+DE,Germany,Lower Saxony,,2020-03-24,-62,-19,14,-52,-43,17
+DE,Germany,Lower Saxony,,2020-03-25,-62,-18,20,-52,-43,17
+DE,Germany,Lower Saxony,,2020-03-26,-62,-16,14,-52,-44,17
+DE,Germany,Lower Saxony,,2020-03-27,-63,-15,31,-52,-44,18
+DE,Germany,Lower Saxony,,2020-03-28,-71,-21,31,-47,-32,12
+DE,Germany,Lower Saxony,,2020-03-29,-76,-52,-42,-64,-36,10
+DE,Germany,Lower Saxony,,2020-03-30,-61,-17,-25,-55,-45,16
+DE,Germany,Lower Saxony,,2020-03-31,-56,-11,21,-47,-44,16
+DE,Germany,Lower Saxony,,2020-04-01,-58,-14,10,-49,-45,16
+DE,Germany,Lower Saxony,,2020-04-02,-59,-13,-5,-52,-45,17
+DE,Germany,Lower Saxony,,2020-04-03,-62,-13,-1,-53,-45,18
+DE,Germany,Lower Saxony,,2020-04-04,-61,-16,28,-45,-30,11
+DE,Germany,Lower Saxony,,2020-04-05,-58,-17,89,-37,-29,7
+DE,Germany,Lower Saxony,,2020-04-06,-39,-6,68,-43,-46,14
+DE,Germany,Lower Saxony,,2020-04-07,-41,-3,56,-44,-46,16
+DE,Germany,Lower Saxony,,2020-04-08,-39,10,67,-43,-47,14
+DE,Germany,Lower Saxony,,2020-04-09,-37,14,43,-44,-48,14
+DE,Germany,Lower Saxony,,2020-04-10,-82,-93,76,-66,-86,28
+DE,Germany,Lower Saxony,,2020-04-11,-54,2,36,-40,-27,10
+DE,Germany,Lower Saxony,,2020-04-12,-63,-27,78,-38,-23,6
+DE,Germany,Lower Saxony,,2020-04-13,-81,-94,27,-70,-88,27
+DE,Germany,Lower Saxony,,2020-04-14,-43,-2,8,-47,-44,16
+DE,Germany,Lower Saxony,,2020-04-15,-43,-10,47,-43,-42,15
+DE,Germany,Lower Saxony,,2020-04-16,-49,-5,55,-42,-41,15
+DE,Germany,Lower Saxony,,2020-04-17,-52,-7,53,-43,-41,16
+DE,Germany,Lower Saxony,,2020-04-18,-61,-12,50,-35,-20,9
+DE,Germany,Lower Saxony,,2020-04-19,-55,-10,86,-33,-19,6
+DE,Germany,Lower Saxony,,2020-04-20,-38,-8,45,-38,-35,12
+DE,Germany,Lower Saxony,,2020-04-21,-43,-8,47,-39,-35,13
+DE,Germany,Lower Saxony,,2020-04-22,-42,-8,61,-37,-36,13
+DE,Germany,Lower Saxony,,2020-04-23,-43,-6,63,-37,-36,13
+DE,Germany,Lower Saxony,,2020-04-24,-47,-7,45,-41,-36,14
+DE,Germany,Lower Saxony,,2020-04-25,-55,-9,38,-34,-17,9
+DE,Germany,Lower Saxony,,2020-04-26,-55,-4,86,-31,-17,6
+DE,Germany,Lower Saxony,,2020-04-27,-40,-15,67,-34,-32,11
+DE,Germany,Lower Saxony,,2020-04-28,-44,-11,22,-38,-33,12
+DE,Germany,Lower Saxony,,2020-04-29,-42,2,20,-37,-33,13
+DE,Germany,Lower Saxony,,2020-04-30,-30,20,0,-33,-35,11
+DE,Germany,Lower Saxony,,2020-05-01,-82,-92,21,-64,-84,27
+DE,Germany,Lower Saxony,,2020-05-02,-44,3,-13,-36,-19,9
+DE,Germany,Lower Saxony,,2020-05-03,-58,-4,45,-30,-18,6
+DE,Germany,Lower Saxony,,2020-05-04,-29,-5,11,-32,-31,11
+DE,Germany,Lower Saxony,,2020-05-05,-33,-7,24,-32,-30,11
+DE,Germany,Lower Saxony,,2020-05-06,-32,-5,50,-30,-30,10
+DE,Germany,Lower Saxony,,2020-05-07,-31,-4,48,-31,-30,11
+DE,Germany,Lower Saxony,,2020-05-08,-33,-3,66,-30,-30,11
+DE,Germany,Lower Saxony,,2020-05-09,-39,0,91,-16,-7,5
+DE,Germany,Lower Saxony,,2020-05-10,-46,16,41,-25,-1,3
+DE,Germany,Lower Saxony,,2020-05-11,-25,-8,7,-33,-28,10
+DE,Germany,Lower Saxony,,2020-05-12,-28,-7,12,-33,-27,11
+DE,Germany,Lower Saxony,,2020-05-13,-26,-7,32,-31,-27,10
+DE,Germany,Lower Saxony,,2020-05-14,-23,-4,46,-30,-27,9
+DE,Germany,Lower Saxony,,2020-05-15,-26,-4,57,-31,-27,10
+DE,Germany,Lower Saxony,,2020-05-16,-31,-6,71,-20,-4,6
+DE,Germany,Lower Saxony,,2020-05-17,-32,24,123,-17,-2,4
+DE,Germany,Lower Saxony,,2020-05-18,-12,-3,74,-23,-26,8
+DE,Germany,Lower Saxony,,2020-05-19,-14,2,75,-24,-26,9
+DE,Germany,Lower Saxony,,2020-05-20,-2,39,128,-15,-27,5
+DE,Germany,Lower Saxony,,2020-05-21,-54,-87,295,-37,-82,18
+DE,Germany,Lower Saxony,,2020-05-22,-17,0,101,-38,-54,15
+DE,Germany,Lower Saxony,,2020-05-23,-30,-8,101,-20,-5,6
+DE,Germany,Lower Saxony,,2020-05-24,-44,5,42,-25,-6,4
+DE,Germany,Lower Saxony,,2020-05-25,-12,-1,61,-23,-26,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-15,6,-1,51,15,-2,-2
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-16,-7,-8,-26,-7,-1,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-17,8,-1,45,-8,-17,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-18,5,-3,23,-15,-18,3
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-19,5,-4,18,-6,-17,3
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-20,4,-3,16,-6,-17,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-21,0,-3,26,-6,-17,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-22,-2,-5,-6,2,-4,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-23,-10,-13,-35,-7,-1,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-24,3,0,26,-1,0,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-25,3,1,24,-11,-1,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-26,1,1,14,-13,-1,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-27,6,5,25,5,1,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-28,4,8,31,4,1,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-02-29,2,3,16,7,2,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-01,14,15,26,8,6,-1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-02,7,5,42,5,1,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-03,6,4,27,5,1,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-04,5,4,33,3,1,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-05,7,4,52,8,2,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-06,-1,0,12,-2,0,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-07,7,3,48,15,3,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-08,27,25,45,14,8,-1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-09,7,1,36,4,0,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-10,2,0,19,0,0,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-11,8,4,62,6,0,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-12,0,3,21,-2,0,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-13,-2,14,13,-6,-1,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-14,-3,15,91,9,3,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-15,-5,18,52,-9,4,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-16,1,19,60,-16,-14,5
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-17,-7,9,54,-21,-19,7
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-18,-26,2,19,-30,-23,9
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-19,-32,-5,19,-35,-25,10
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-20,-41,-10,-13,-45,-28,12
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-21,-54,-17,-16,-45,-21,9
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-22,-67,-31,-19,-53,-24,7
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-23,-35,-13,4,-47,-34,13
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-24,-53,-17,17,-46,-36,14
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-25,-53,-16,12,-46,-36,14
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-26,-51,-15,21,-45,-36,13
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-27,-54,-15,13,-48,-37,14
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-28,-64,-17,17,-43,-26,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-29,-74,-48,-50,-64,-32,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-30,-52,-17,-22,-48,-37,15
+DE,Germany,Mecklenburg-Vorpommern,,2020-03-31,-46,-9,13,-43,-36,13
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-01,-50,-13,-18,-48,-36,14
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-02,-48,-10,-7,-47,-36,13
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-03,-53,-12,-18,-51,-37,15
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-04,-63,-14,-4,-45,-25,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-05,-54,-13,23,-44,-18,5
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-06,-38,-2,46,-40,-37,11
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-07,-38,2,45,-39,-37,11
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-08,-37,9,42,-38,-38,10
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-09,-36,8,28,-38,-40,10
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-10,-82,-92,39,-66,-81,26
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-11,-55,3,13,-38,-20,6
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-12,-52,-14,52,-40,-8,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-13,-82,-93,22,-67,-84,27
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-14,-40,0,5,-41,-38,12
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-15,-44,-11,13,-42,-37,13
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-16,-56,-2,30,-37,-34,11
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-17,-58,-6,30,-40,-33,12
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-18,-60,-11,22,-29,-12,5
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-19,-55,-7,22,-38,-8,4
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-20,-38,-8,26,-32,-28,10
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-21,-41,-5,33,-33,-28,9
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-22,-42,-5,29,-32,-27,9
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-23,-41,-4,62,-30,-26,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-24,-46,-7,24,-36,-28,9
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-25,-54,-5,15,-26,-10,5
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-26,-52,1,18,-37,-6,3
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-27,-41,-17,46,-29,-24,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-28,-42,-10,31,-29,-24,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-29,-43,1,-14,-33,-26,10
+DE,Germany,Mecklenburg-Vorpommern,,2020-04-30,-24,19,-15,-26,-26,7
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-01,-80,-90,36,-56,-79,23
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-02,-34,9,-5,-28,-11,5
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-03,-51,10,10,-26,-4,3
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-04,-24,-6,3,-27,-21,7
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-05,-29,-6,-7,-28,-21,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-06,-28,-4,17,-23,-18,7
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-07,-27,-2,22,-24,-19,6
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-08,-29,-5,43,-24,-17,6
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-09,-30,-2,56,-13,5,0
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-10,-25,47,43,-18,16,-1
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-11,-25,-7,-18,-29,-21,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-12,-25,-5,-13,-29,-19,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-13,-26,-4,-12,-28,-19,8
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-14,-18,-1,24,-22,-16,5
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-15,-25,-4,3,-28,-18,7
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-16,-30,-6,13,-22,1,3
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-17,-35,30,23,-25,9,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-18,-14,-2,4,-27,-19,7
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-19,-10,7,40,-19,-18,5
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-20,1,40,89,-6,-17,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-21,-49,-85,,-21,-74,11
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-22,-18,-2,100,-31,-49,11
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-23,-25,-5,60,-13,1,2
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-24,-37,40,13,-22,5,1
+DE,Germany,Mecklenburg-Vorpommern,,2020-05-25,0,10,133,-8,-19,6
+DE,Germany,North Rhine-Westphalia,,2020-02-15,5,2,61,11,1,-1
+DE,Germany,North Rhine-Westphalia,,2020-02-16,0,2,-9,3,-2,1
+DE,Germany,North Rhine-Westphalia,,2020-02-17,1,2,2,2,2,-1
+DE,Germany,North Rhine-Westphalia,,2020-02-18,4,4,9,3,1,1
+DE,Germany,North Rhine-Westphalia,,2020-02-19,7,7,12,2,1,0
+DE,Germany,North Rhine-Westphalia,,2020-02-20,5,-4,23,11,-7,1
+DE,Germany,North Rhine-Westphalia,,2020-02-21,0,3,19,-4,-15,3
+DE,Germany,North Rhine-Westphalia,,2020-02-22,-5,-3,10,12,-5,1
+DE,Germany,North Rhine-Westphalia,,2020-02-23,-7,-6,-43,5,-5,1
+DE,Germany,North Rhine-Westphalia,,2020-02-24,-4,-16,19,-12,-41,8
+DE,Germany,North Rhine-Westphalia,,2020-02-25,0,1,17,-8,-17,4
+DE,Germany,North Rhine-Westphalia,,2020-02-26,-8,2,-9,-8,-4,3
+DE,Germany,North Rhine-Westphalia,,2020-02-27,-9,4,-19,-5,-1,2
+DE,Germany,North Rhine-Westphalia,,2020-02-28,1,14,7,-2,-1,2
+DE,Germany,North Rhine-Westphalia,,2020-02-29,-4,6,5,-1,0,2
+DE,Germany,North Rhine-Westphalia,,2020-03-01,3,13,20,-2,0,1
+DE,Germany,North Rhine-Westphalia,,2020-03-02,-2,6,-5,-3,1,0
+DE,Germany,North Rhine-Westphalia,,2020-03-03,2,5,24,-3,-1,1
+DE,Germany,North Rhine-Westphalia,,2020-03-04,2,2,19,-5,-1,1
+DE,Germany,North Rhine-Westphalia,,2020-03-05,-6,-2,-15,-7,-1,2
+DE,Germany,North Rhine-Westphalia,,2020-03-06,-3,1,-9,-7,-2,2
+DE,Germany,North Rhine-Westphalia,,2020-03-07,1,-1,46,0,0,1
+DE,Germany,North Rhine-Westphalia,,2020-03-08,2,13,14,-6,-1,1
+DE,Germany,North Rhine-Westphalia,,2020-03-09,-3,1,4,-7,0,1
+DE,Germany,North Rhine-Westphalia,,2020-03-10,-9,-2,-15,-10,-2,3
+DE,Germany,North Rhine-Westphalia,,2020-03-11,-5,1,2,-10,-3,2
+DE,Germany,North Rhine-Westphalia,,2020-03-12,-6,5,11,-9,-3,2
+DE,Germany,North Rhine-Westphalia,,2020-03-13,-11,18,-4,-15,-4,4
+DE,Germany,North Rhine-Westphalia,,2020-03-14,-18,9,44,-19,-4,4
+DE,Germany,North Rhine-Westphalia,,2020-03-15,-16,7,90,-18,-7,3
+DE,Germany,North Rhine-Westphalia,,2020-03-16,-10,20,46,-28,-19,6
+DE,Germany,North Rhine-Westphalia,,2020-03-17,-21,12,67,-35,-27,10
+DE,Germany,North Rhine-Westphalia,,2020-03-18,-36,9,67,-41,-32,12
+DE,Germany,North Rhine-Westphalia,,2020-03-19,-49,-2,12,-48,-36,14
+DE,Germany,North Rhine-Westphalia,,2020-03-20,-56,-1,-21,-55,-38,17
+DE,Germany,North Rhine-Westphalia,,2020-03-21,-66,-19,8,-56,-30,13
+DE,Germany,North Rhine-Westphalia,,2020-03-22,-69,-33,32,-57,-33,9
+DE,Germany,North Rhine-Westphalia,,2020-03-23,-56,-14,12,-57,-41,15
+DE,Germany,North Rhine-Westphalia,,2020-03-24,-57,-15,40,-57,-44,18
+DE,Germany,North Rhine-Westphalia,,2020-03-25,-56,-15,44,-57,-44,17
+DE,Germany,North Rhine-Westphalia,,2020-03-26,-57,-13,27,-57,-44,17
+DE,Germany,North Rhine-Westphalia,,2020-03-27,-57,-12,51,-57,-44,18
+DE,Germany,North Rhine-Westphalia,,2020-03-28,-64,-19,66,-54,-33,12
+DE,Germany,North Rhine-Westphalia,,2020-03-29,-77,-51,-50,-70,-38,11
+DE,Germany,North Rhine-Westphalia,,2020-03-30,-52,-14,0,-56,-42,16
+DE,Germany,North Rhine-Westphalia,,2020-03-31,-49,-8,47,-52,-43,17
+DE,Germany,North Rhine-Westphalia,,2020-04-01,-48,-9,60,-52,-43,16
+DE,Germany,North Rhine-Westphalia,,2020-04-02,-52,-10,8,-55,-44,17
+DE,Germany,North Rhine-Westphalia,,2020-04-03,-55,-9,-1,-58,-43,19
+DE,Germany,North Rhine-Westphalia,,2020-04-04,-60,-14,64,-50,-31,12
+DE,Germany,North Rhine-Westphalia,,2020-04-05,-53,-6,107,-44,-29,7
+DE,Germany,North Rhine-Westphalia,,2020-04-06,-40,-6,76,-50,-44,14
+DE,Germany,North Rhine-Westphalia,,2020-04-07,-42,0,81,-51,-46,16
+DE,Germany,North Rhine-Westphalia,,2020-04-08,-39,11,102,-50,-46,14
+DE,Germany,North Rhine-Westphalia,,2020-04-09,-37,13,68,-49,-47,14
+DE,Germany,North Rhine-Westphalia,,2020-04-10,-78,-91,134,-68,-86,28
+DE,Germany,North Rhine-Westphalia,,2020-04-11,-53,1,77,-46,-30,10
+DE,Germany,North Rhine-Westphalia,,2020-04-12,-60,-20,89,-46,-25,6
+DE,Germany,North Rhine-Westphalia,,2020-04-13,-80,-93,60,-73,-87,27
+DE,Germany,North Rhine-Westphalia,,2020-04-14,-42,2,29,-53,-47,16
+DE,Germany,North Rhine-Westphalia,,2020-04-15,-41,-7,92,-50,-46,16
+DE,Germany,North Rhine-Westphalia,,2020-04-16,-49,-3,90,-48,-45,15
+DE,Germany,North Rhine-Westphalia,,2020-04-17,-51,-3,90,-50,-44,16
+DE,Germany,North Rhine-Westphalia,,2020-04-18,-63,-14,40,-48,-24,11
+DE,Germany,North Rhine-Westphalia,,2020-04-19,-55,-2,87,-44,-22,7
+DE,Germany,North Rhine-Westphalia,,2020-04-20,-39,-9,57,-44,-35,12
+DE,Germany,North Rhine-Westphalia,,2020-04-21,-43,-6,79,-44,-36,14
+DE,Germany,North Rhine-Westphalia,,2020-04-22,-42,-6,92,-43,-36,13
+DE,Germany,North Rhine-Westphalia,,2020-04-23,-44,-5,77,-42,-34,13
+DE,Germany,North Rhine-Westphalia,,2020-04-24,-47,-4,69,-45,-35,14
+DE,Germany,North Rhine-Westphalia,,2020-04-25,-55,-8,71,-39,-18,9
+DE,Germany,North Rhine-Westphalia,,2020-04-26,-50,8,121,-37,-17,5
+DE,Germany,North Rhine-Westphalia,,2020-04-27,-39,-14,77,-41,-32,11
+DE,Germany,North Rhine-Westphalia,,2020-04-28,-46,-11,10,-46,-34,13
+DE,Germany,North Rhine-Westphalia,,2020-04-29,-42,3,26,-43,-34,13
+DE,Germany,North Rhine-Westphalia,,2020-04-30,-31,19,-1,-39,-35,11
+DE,Germany,North Rhine-Westphalia,,2020-05-01,-81,-90,39,-68,-84,28
+DE,Germany,North Rhine-Westphalia,,2020-05-02,-44,4,-13,-42,-21,10
+DE,Germany,North Rhine-Westphalia,,2020-05-03,-55,7,71,-36,-17,6
+DE,Germany,North Rhine-Westphalia,,2020-05-04,-28,-4,14,-39,-30,11
+DE,Germany,North Rhine-Westphalia,,2020-05-05,-31,-3,60,-37,-31,12
+DE,Germany,North Rhine-Westphalia,,2020-05-06,-30,-3,79,-36,-30,11
+DE,Germany,North Rhine-Westphalia,,2020-05-07,-31,-4,69,-36,-30,11
+DE,Germany,North Rhine-Westphalia,,2020-05-08,-33,0,76,-37,-30,11
+DE,Germany,North Rhine-Westphalia,,2020-05-09,-40,-1,98,-27,-9,6
+DE,Germany,North Rhine-Westphalia,,2020-05-10,-51,9,17,-39,-3,4
+DE,Germany,North Rhine-Westphalia,,2020-05-11,-26,-8,2,-38,-27,10
+DE,Germany,North Rhine-Westphalia,,2020-05-12,-26,-4,30,-35,-27,11
+DE,Germany,North Rhine-Westphalia,,2020-05-13,-25,-5,33,-36,-27,11
+DE,Germany,North Rhine-Westphalia,,2020-05-14,-24,-3,43,-34,-27,9
+DE,Germany,North Rhine-Westphalia,,2020-05-15,-24,-2,60,-35,-27,10
+DE,Germany,North Rhine-Westphalia,,2020-05-16,-34,-6,70,-28,-6,6
+DE,Germany,North Rhine-Westphalia,,2020-05-17,-33,18,116,-26,-1,3
+DE,Germany,North Rhine-Westphalia,,2020-05-18,-15,-4,66,-32,-26,8
+DE,Germany,North Rhine-Westphalia,,2020-05-19,-16,2,77,-31,-27,9
+DE,Germany,North Rhine-Westphalia,,2020-05-20,-6,34,85,-27,-28,6
+DE,Germany,North Rhine-Westphalia,,2020-05-21,-57,-87,218,-51,-81,19
+DE,Germany,North Rhine-Westphalia,,2020-05-22,-19,3,50,-42,-49,14
+DE,Germany,North Rhine-Westphalia,,2020-05-23,-33,-8,56,-31,-7,6
+DE,Germany,North Rhine-Westphalia,,2020-05-24,-46,-6,24,-34,-4,3
+DE,Germany,North Rhine-Westphalia,,2020-05-25,-16,-4,42,-32,-27,8
+DE,Germany,Rhineland-Palatinate,,2020-02-15,2,0,36,6,-2,-1
+DE,Germany,Rhineland-Palatinate,,2020-02-16,16,19,32,11,0,-1
+DE,Germany,Rhineland-Palatinate,,2020-02-17,0,-1,1,-10,-15,2
+DE,Germany,Rhineland-Palatinate,,2020-02-18,2,-1,8,-10,-14,3
+DE,Germany,Rhineland-Palatinate,,2020-02-19,4,0,7,-7,-15,2
+DE,Germany,Rhineland-Palatinate,,2020-02-20,1,-7,21,-4,-19,2
+DE,Germany,Rhineland-Palatinate,,2020-02-21,-2,0,23,-5,-22,4
+DE,Germany,Rhineland-Palatinate,,2020-02-22,-3,-2,37,20,-6,0
+DE,Germany,Rhineland-Palatinate,,2020-02-23,9,30,-1,21,-2,0
+DE,Germany,Rhineland-Palatinate,,2020-02-24,6,-9,54,2,-39,7
+DE,Germany,Rhineland-Palatinate,,2020-02-25,-1,-2,12,-11,-28,6
+DE,Germany,Rhineland-Palatinate,,2020-02-26,-4,1,0,-7,-6,3
+DE,Germany,Rhineland-Palatinate,,2020-02-27,-14,-2,-7,-5,-2,3
+DE,Germany,Rhineland-Palatinate,,2020-02-28,1,14,12,0,-2,2
+DE,Germany,Rhineland-Palatinate,,2020-02-29,-2,7,-3,6,-2,2
+DE,Germany,Rhineland-Palatinate,,2020-03-01,10,16,16,5,1,1
+DE,Germany,Rhineland-Palatinate,,2020-03-02,-1,9,-2,-3,1,0
+DE,Germany,Rhineland-Palatinate,,2020-03-03,1,6,11,-5,0,1
+DE,Germany,Rhineland-Palatinate,,2020-03-04,2,3,11,-5,-1,1
+DE,Germany,Rhineland-Palatinate,,2020-03-05,-7,-2,-16,-8,-1,2
+DE,Germany,Rhineland-Palatinate,,2020-03-06,-2,2,0,-6,-1,2
+DE,Germany,Rhineland-Palatinate,,2020-03-07,3,1,30,0,-1,1
+DE,Germany,Rhineland-Palatinate,,2020-03-08,21,38,30,4,0,0
+DE,Germany,Rhineland-Palatinate,,2020-03-09,0,3,12,-5,0,1
+DE,Germany,Rhineland-Palatinate,,2020-03-10,-6,0,-9,-11,-2,3
+DE,Germany,Rhineland-Palatinate,,2020-03-11,-1,2,7,-8,-2,2
+DE,Germany,Rhineland-Palatinate,,2020-03-12,-6,7,2,-11,-2,2
+DE,Germany,Rhineland-Palatinate,,2020-03-13,-8,21,9,-15,-4,4
+DE,Germany,Rhineland-Palatinate,,2020-03-14,-17,10,21,-23,-4,4
+DE,Germany,Rhineland-Palatinate,,2020-03-15,3,27,107,-12,-5,2
+DE,Germany,Rhineland-Palatinate,,2020-03-16,-7,20,39,-30,-18,6
+DE,Germany,Rhineland-Palatinate,,2020-03-17,-17,12,33,-39,-24,10
+DE,Germany,Rhineland-Palatinate,,2020-03-18,-33,5,29,-44,-29,12
+DE,Germany,Rhineland-Palatinate,,2020-03-19,-42,-2,22,-49,-33,13
+DE,Germany,Rhineland-Palatinate,,2020-03-20,-47,0,6,-54,-35,15
+DE,Germany,Rhineland-Palatinate,,2020-03-21,-69,-25,-48,-65,-32,14
+DE,Germany,Rhineland-Palatinate,,2020-03-22,-70,-28,8,-64,-35,9
+DE,Germany,Rhineland-Palatinate,,2020-03-23,-54,-17,-5,-61,-40,16
+DE,Germany,Rhineland-Palatinate,,2020-03-24,-56,-19,8,-62,-43,18
+DE,Germany,Rhineland-Palatinate,,2020-03-25,-55,-20,8,-61,-43,18
+DE,Germany,Rhineland-Palatinate,,2020-03-26,-56,-17,2,-62,-44,18
+DE,Germany,Rhineland-Palatinate,,2020-03-27,-55,-15,23,-62,-43,19
+DE,Germany,Rhineland-Palatinate,,2020-03-28,-62,-22,40,-58,-34,12
+DE,Germany,Rhineland-Palatinate,,2020-03-29,-74,-40,-38,-71,-39,10
+DE,Germany,Rhineland-Palatinate,,2020-03-30,-48,-15,7,-60,-42,16
+DE,Germany,Rhineland-Palatinate,,2020-03-31,-48,-12,15,-58,-43,17
+DE,Germany,Rhineland-Palatinate,,2020-04-01,-47,-14,27,-57,-42,16
+DE,Germany,Rhineland-Palatinate,,2020-04-02,-48,-11,20,-59,-43,17
+DE,Germany,Rhineland-Palatinate,,2020-04-03,-52,-11,-9,-62,-43,19
+DE,Germany,Rhineland-Palatinate,,2020-04-04,-59,-17,24,-58,-32,12
+DE,Germany,Rhineland-Palatinate,,2020-04-05,-56,-3,71,-53,-32,7
+DE,Germany,Rhineland-Palatinate,,2020-04-06,-38,-7,39,-56,-42,15
+DE,Germany,Rhineland-Palatinate,,2020-04-07,-40,-3,49,-56,-43,15
+DE,Germany,Rhineland-Palatinate,,2020-04-08,-37,10,44,-55,-43,15
+DE,Germany,Rhineland-Palatinate,,2020-04-09,-36,14,34,-56,-46,14
+DE,Germany,Rhineland-Palatinate,,2020-04-10,-79,-92,93,-72,-85,29
+DE,Germany,Rhineland-Palatinate,,2020-04-11,-51,1,35,-56,-32,10
+DE,Germany,Rhineland-Palatinate,,2020-04-12,-63,-19,48,-59,-29,7
+DE,Germany,Rhineland-Palatinate,,2020-04-13,-81,-94,19,-78,-87,29
+DE,Germany,Rhineland-Palatinate,,2020-04-14,-38,2,20,-57,-46,16
+DE,Germany,Rhineland-Palatinate,,2020-04-15,-39,-9,47,-55,-45,16
+DE,Germany,Rhineland-Palatinate,,2020-04-16,-47,-4,57,-54,-44,16
+DE,Germany,Rhineland-Palatinate,,2020-04-17,-50,-5,55,-56,-43,17
+DE,Germany,Rhineland-Palatinate,,2020-04-18,-61,-13,21,-55,-25,11
+DE,Germany,Rhineland-Palatinate,,2020-04-19,-57,3,62,-52,-26,7
+DE,Germany,Rhineland-Palatinate,,2020-04-20,-38,-8,34,-52,-35,13
+DE,Germany,Rhineland-Palatinate,,2020-04-21,-41,-7,46,-51,-35,14
+DE,Germany,Rhineland-Palatinate,,2020-04-22,-40,-7,54,-50,-35,13
+DE,Germany,Rhineland-Palatinate,,2020-04-23,-42,-4,51,-50,-35,13
+DE,Germany,Rhineland-Palatinate,,2020-04-24,-45,-4,44,-53,-35,15
+DE,Germany,Rhineland-Palatinate,,2020-04-25,-51,-7,51,-47,-19,9
+DE,Germany,Rhineland-Palatinate,,2020-04-26,-44,21,106,-43,-21,5
+DE,Germany,Rhineland-Palatinate,,2020-04-27,-38,-13,52,-49,-32,12
+DE,Germany,Rhineland-Palatinate,,2020-04-28,-44,-10,4,-53,-34,13
+DE,Germany,Rhineland-Palatinate,,2020-04-29,-40,3,19,-49,-34,13
+DE,Germany,Rhineland-Palatinate,,2020-04-30,-30,20,-21,-48,-35,12
+DE,Germany,Rhineland-Palatinate,,2020-05-01,-81,-92,-5,-74,-84,29
+DE,Germany,Rhineland-Palatinate,,2020-05-02,-40,5,-12,-49,-21,9
+DE,Germany,Rhineland-Palatinate,,2020-05-03,-47,19,64,-40,-19,6
+DE,Germany,Rhineland-Palatinate,,2020-05-04,-26,-5,-6,-45,-28,11
+DE,Germany,Rhineland-Palatinate,,2020-05-05,-28,-6,28,-43,-28,11
+DE,Germany,Rhineland-Palatinate,,2020-05-06,-27,-4,38,-40,-27,11
+DE,Germany,Rhineland-Palatinate,,2020-05-07,-27,-4,41,-41,-27,10
+DE,Germany,Rhineland-Palatinate,,2020-05-08,-29,0,44,-42,-27,11
+DE,Germany,Rhineland-Palatinate,,2020-05-09,-36,1,13,-41,-13,7
+DE,Germany,Rhineland-Palatinate,,2020-05-10,-45,14,19,-43,-6,4
+DE,Germany,Rhineland-Palatinate,,2020-05-11,-35,-15,-33,-49,-27,12
+DE,Germany,Rhineland-Palatinate,,2020-05-12,-26,-4,26,-40,-25,11
+DE,Germany,Rhineland-Palatinate,,2020-05-13,-24,-6,21,-40,-25,10
+DE,Germany,Rhineland-Palatinate,,2020-05-14,-25,-4,20,-42,-25,9
+DE,Germany,Rhineland-Palatinate,,2020-05-15,-23,-1,45,-40,-25,10
+DE,Germany,Rhineland-Palatinate,,2020-05-16,-28,-4,65,-31,-7,5
+DE,Germany,Rhineland-Palatinate,,2020-05-17,-19,30,116,-25,-5,3
+DE,Germany,Rhineland-Palatinate,,2020-05-18,-12,-3,58,-37,-24,8
+DE,Germany,Rhineland-Palatinate,,2020-05-19,-13,4,69,-36,-25,9
+DE,Germany,Rhineland-Palatinate,,2020-05-20,-2,39,90,-30,-25,6
+DE,Germany,Rhineland-Palatinate,,2020-05-21,-47,-87,255,-46,-81,19
+DE,Germany,Rhineland-Palatinate,,2020-05-22,-11,7,108,-42,-50,14
+DE,Germany,Rhineland-Palatinate,,2020-05-23,-31,-6,30,-41,-12,7
+DE,Germany,Rhineland-Palatinate,,2020-05-24,-24,17,88,-24,-5,3
+DE,Germany,Rhineland-Palatinate,,2020-05-25,-13,-2,49,-35,-25,8
+DE,Germany,Saarland,,2020-02-15,4,-3,36,4,-4,-1
+DE,Germany,Saarland,,2020-02-16,10,-7,20,2,0,-1
+DE,Germany,Saarland,,2020-02-17,0,-2,-6,-14,-14,3
+DE,Germany,Saarland,,2020-02-18,2,-2,2,-15,-15,3
+DE,Germany,Saarland,,2020-02-19,3,-1,-19,-11,-15,3
+DE,Germany,Saarland,,2020-02-20,8,-4,-3,-11,-18,2
+DE,Germany,Saarland,,2020-02-21,0,-2,14,-12,-23,3
+DE,Germany,Saarland,,2020-02-22,-2,-5,30,2,-10,0
+DE,Germany,Saarland,,2020-02-23,1,8,-24,20,-4,0
+DE,Germany,Saarland,,2020-02-24,-1,-10,2,-28,-46,10
+DE,Germany,Saarland,,2020-02-25,-4,-3,-3,-19,-28,7
+DE,Germany,Saarland,,2020-02-26,-6,-1,-25,-9,-5,3
+DE,Germany,Saarland,,2020-02-27,-16,-6,-14,-6,-4,4
+DE,Germany,Saarland,,2020-02-28,4,13,13,-3,-2,1
+DE,Germany,Saarland,,2020-02-29,-2,4,-8,-2,-3,2
+DE,Germany,Saarland,,2020-03-01,-6,21,-2,2,2,1
+DE,Germany,Saarland,,2020-03-02,0,7,-8,-5,0,1
+DE,Germany,Saarland,,2020-03-03,2,4,2,-11,-2,1
+DE,Germany,Saarland,,2020-03-04,-1,2,-20,-9,-2,2
+DE,Germany,Saarland,,2020-03-05,-6,-3,-22,-12,-3,3
+DE,Germany,Saarland,,2020-03-06,-3,0,-9,-9,-3,2
+DE,Germany,Saarland,,2020-03-07,4,-2,27,-3,-4,1
+DE,Germany,Saarland,,2020-03-08,-2,21,9,-4,0,1
+DE,Germany,Saarland,,2020-03-09,1,1,9,-11,-1,2
+DE,Germany,Saarland,,2020-03-10,-8,-3,-20,-16,-4,3
+DE,Germany,Saarland,,2020-03-11,-4,3,-17,-13,-3,2
+DE,Germany,Saarland,,2020-03-12,-6,8,-11,-16,-5,3
+DE,Germany,Saarland,,2020-03-13,-11,25,6,-21,-7,4
+DE,Germany,Saarland,,2020-03-14,-21,3,24,-26,-8,5
+DE,Germany,Saarland,,2020-03-15,-10,2,89,-18,-5,2
+DE,Germany,Saarland,,2020-03-16,-12,15,37,-33,-20,8
+DE,Germany,Saarland,,2020-03-17,-20,5,22,-43,-26,9
+DE,Germany,Saarland,,2020-03-18,-41,-6,2,-48,-31,12
+DE,Germany,Saarland,,2020-03-19,-46,-11,22,-51,-35,14
+DE,Germany,Saarland,,2020-03-20,-50,-6,15,-57,-37,15
+DE,Germany,Saarland,,2020-03-21,-79,-41,-54,-69,-40,16
+DE,Germany,Saarland,,2020-03-22,-77,-50,-5,-69,-39,10
+DE,Germany,Saarland,,2020-03-23,-61,-23,-1,-64,-43,18
+DE,Germany,Saarland,,2020-03-24,-62,-28,8,-66,-46,19
+DE,Germany,Saarland,,2020-03-25,-62,-27,-11,-64,-47,19
+DE,Germany,Saarland,,2020-03-26,-61,-24,8,-64,-48,19
+DE,Germany,Saarland,,2020-03-27,-61,-22,24,-65,-47,19
+DE,Germany,Saarland,,2020-03-28,-67,-32,42,-62,-40,13
+DE,Germany,Saarland,,2020-03-29,-77,-56,-29,-71,-39,10
+DE,Germany,Saarland,,2020-03-30,-53,-22,18,-63,-45,17
+DE,Germany,Saarland,,2020-03-31,-54,-19,12,-60,-46,18
+DE,Germany,Saarland,,2020-04-01,-55,-21,2,-62,-46,17
+DE,Germany,Saarland,,2020-04-02,-53,-20,25,-62,-47,18
+DE,Germany,Saarland,,2020-04-03,-58,-18,-8,-64,-46,19
+DE,Germany,Saarland,,2020-04-04,-63,-27,27,-63,-37,13
+DE,Germany,Saarland,,2020-04-05,-63,-26,54,-60,-34,8
+DE,Germany,Saarland,,2020-04-06,-44,-15,35,-60,-44,16
+DE,Germany,Saarland,,2020-04-07,-47,-12,33,-60,-46,17
+DE,Germany,Saarland,,2020-04-08,-46,0,7,-58,-46,16
+DE,Germany,Saarland,,2020-04-09,-42,6,27,-59,-48,16
+DE,Germany,Saarland,,2020-04-10,-82,-93,67,-80,-85,29
+DE,Germany,Saarland,,2020-04-11,-56,-10,28,-60,-37,12
+DE,Germany,Saarland,,2020-04-12,-69,-42,24,-64,-33,8
+DE,Germany,Saarland,,2020-04-13,-82,-94,48,-81,-87,29
+DE,Germany,Saarland,,2020-04-14,-42,-6,24,-60,-49,17
+DE,Germany,Saarland,,2020-04-15,-46,-17,13,-59,-48,17
+DE,Germany,Saarland,,2020-04-16,-49,-13,48,-58,-47,17
+DE,Germany,Saarland,,2020-04-17,-53,-13,48,-59,-46,17
+DE,Germany,Saarland,,2020-04-18,-63,-24,34,-59,-31,12
+DE,Germany,Saarland,,2020-04-19,-60,-24,63,-58,-26,7
+DE,Germany,Saarland,,2020-04-20,-41,-14,41,-56,-40,15
+DE,Germany,Saarland,,2020-04-21,-44,-15,41,-58,-41,15
+DE,Germany,Saarland,,2020-04-22,-46,-15,23,-56,-40,15
+DE,Germany,Saarland,,2020-04-23,-44,-11,49,-55,-40,14
+DE,Germany,Saarland,,2020-04-24,-49,-11,42,-58,-40,16
+DE,Germany,Saarland,,2020-04-25,-56,-19,50,-54,-27,10
+DE,Germany,Saarland,,2020-04-26,-56,-16,79,-52,-24,6
+DE,Germany,Saarland,,2020-04-27,-40,-16,54,-54,-37,13
+DE,Germany,Saarland,,2020-04-28,-48,-14,0,-57,-39,14
+DE,Germany,Saarland,,2020-04-29,-46,-3,-9,-55,-37,14
+DE,Germany,Saarland,,2020-04-30,-36,13,-16,-51,-38,13
+DE,Germany,Saarland,,2020-05-01,-85,-94,-13,-81,-84,29
+DE,Germany,Saarland,,2020-05-02,-46,-5,6,-50,-26,10
+DE,Germany,Saarland,,2020-05-03,-59,-16,60,-48,-20,6
+DE,Germany,Saarland,,2020-05-04,-25,-7,24,-46,-29,11
+DE,Germany,Saarland,,2020-05-05,-30,-9,33,-46,-30,11
+DE,Germany,Saarland,,2020-05-06,-31,-9,19,-42,-29,11
+DE,Germany,Saarland,,2020-05-07,-28,-7,52,-43,-29,11
+DE,Germany,Saarland,,2020-05-08,-34,-5,54,-44,-30,11
+DE,Germany,Saarland,,2020-05-09,-39,-5,25,-43,-19,8
+DE,Germany,Saarland,,2020-05-10,-51,-11,33,-45,-4,4
+DE,Germany,Saarland,,2020-05-11,-38,-18,-29,-50,-28,13
+DE,Germany,Saarland,,2020-05-12,-29,-8,34,-43,-27,10
+DE,Germany,Saarland,,2020-05-13,-32,-10,-3,-44,-26,11
+DE,Germany,Saarland,,2020-05-14,-28,-7,26,-43,-27,10
+DE,Germany,Saarland,,2020-05-15,-31,-6,48,-43,-26,10
+DE,Germany,Saarland,,2020-05-16,-38,-12,67,-38,-13,6
+DE,Germany,Saarland,,2020-05-17,-42,-8,97,-38,-11,3
+DE,Germany,Saarland,,2020-05-18,-11,-6,49,-39,-25,9
+DE,Germany,Saarland,,2020-05-19,-14,0,51,-39,-27,9
+DE,Germany,Saarland,,2020-05-20,-9,33,26,-36,-27,6
+DE,Germany,Saarland,,2020-05-21,-61,-91,171,-64,-81,19
+DE,Germany,Saarland,,2020-05-22,-18,1,58,-44,-46,13
+DE,Germany,Saarland,,2020-05-23,-36,-10,-2,-46,-18,8
+DE,Germany,Saarland,,2020-05-24,-37,-9,78,-31,-6,3
+DE,Germany,Saarland,,2020-05-25,-15,-4,38,-38,-26,9
+DE,Germany,Saxony,,2020-02-15,4,-1,33,14,-3,-2
+DE,Germany,Saxony,,2020-02-16,6,13,4,2,-1,-1
+DE,Germany,Saxony,,2020-02-17,5,-2,11,-8,-18,3
+DE,Germany,Saxony,,2020-02-18,6,-3,22,-8,-18,3
+DE,Germany,Saxony,,2020-02-19,1,-6,-7,-11,-18,3
+DE,Germany,Saxony,,2020-02-20,3,-5,6,-7,-18,3
+DE,Germany,Saxony,,2020-02-21,-1,-4,-5,-11,-19,3
+DE,Germany,Saxony,,2020-02-22,2,-2,17,9,-3,-1
+DE,Germany,Saxony,,2020-02-23,-7,-12,-44,-8,-4,1
+DE,Germany,Saxony,,2020-02-24,1,2,7,1,0,1
+DE,Germany,Saxony,,2020-02-25,1,1,14,3,0,1
+DE,Germany,Saxony,,2020-02-26,-4,0,-7,-1,-1,1
+DE,Germany,Saxony,,2020-02-27,1,4,5,2,1,1
+DE,Germany,Saxony,,2020-02-28,1,7,-3,1,0,1
+DE,Germany,Saxony,,2020-02-29,3,6,8,3,1,0
+DE,Germany,Saxony,,2020-03-01,17,25,39,17,3,-1
+DE,Germany,Saxony,,2020-03-02,4,6,29,2,2,1
+DE,Germany,Saxony,,2020-03-03,1,2,5,0,-1,2
+DE,Germany,Saxony,,2020-03-04,2,3,22,1,0,0
+DE,Germany,Saxony,,2020-03-05,4,1,29,4,2,0
+DE,Germany,Saxony,,2020-03-06,2,1,-3,0,0,1
+DE,Germany,Saxony,,2020-03-07,2,0,-2,0,0,1
+DE,Germany,Saxony,,2020-03-08,22,21,48,13,4,-1
+DE,Germany,Saxony,,2020-03-09,0,1,8,-1,0,1
+DE,Germany,Saxony,,2020-03-10,4,0,6,2,-1,2
+DE,Germany,Saxony,,2020-03-11,-1,2,3,-1,-1,1
+DE,Germany,Saxony,,2020-03-12,0,5,9,-3,0,2
+DE,Germany,Saxony,,2020-03-13,-4,15,-8,-8,-2,2
+DE,Germany,Saxony,,2020-03-14,-9,12,57,-8,1,2
+DE,Germany,Saxony,,2020-03-15,-6,13,90,-8,2,1
+DE,Germany,Saxony,,2020-03-16,0,21,58,-18,-12,5
+DE,Germany,Saxony,,2020-03-17,-6,16,50,-26,-18,8
+DE,Germany,Saxony,,2020-03-18,-12,9,93,-26,-22,7
+DE,Germany,Saxony,,2020-03-19,-31,-2,54,-36,-25,10
+DE,Germany,Saxony,,2020-03-20,-42,-4,-30,-48,-30,15
+DE,Germany,Saxony,,2020-03-21,-57,-15,-20,-54,-23,11
+DE,Germany,Saxony,,2020-03-22,-65,-25,15,-52,-25,8
+DE,Germany,Saxony,,2020-03-23,-57,-17,4,-52,-36,16
+DE,Germany,Saxony,,2020-03-24,-57,-19,29,-51,-38,17
+DE,Germany,Saxony,,2020-03-25,-57,-17,23,-52,-39,16
+DE,Germany,Saxony,,2020-03-26,-56,-18,14,-52,-38,17
+DE,Germany,Saxony,,2020-03-27,-56,-17,32,-52,-39,17
+DE,Germany,Saxony,,2020-03-28,-68,-21,46,-50,-26,10
+DE,Germany,Saxony,,2020-03-29,-78,-51,-50,-66,-34,10
+DE,Germany,Saxony,,2020-03-30,-54,-16,7,-51,-38,16
+DE,Germany,Saxony,,2020-03-31,-53,-15,4,-50,-39,17
+DE,Germany,Saxony,,2020-04-01,-51,-12,38,-47,-38,15
+DE,Germany,Saxony,,2020-04-02,-50,-13,34,-48,-37,15
+DE,Germany,Saxony,,2020-04-03,-55,-15,-15,-53,-39,18
+DE,Germany,Saxony,,2020-04-04,-66,-17,17,-51,-25,11
+DE,Germany,Saxony,,2020-04-05,-55,-11,63,-43,-16,6
+DE,Germany,Saxony,,2020-04-06,-45,-7,65,-44,-36,13
+DE,Germany,Saxony,,2020-04-07,-43,-2,82,-43,-37,13
+DE,Germany,Saxony,,2020-04-08,-40,12,73,-42,-37,11
+DE,Germany,Saxony,,2020-04-09,-37,11,56,-42,-39,12
+DE,Germany,Saxony,,2020-04-10,-81,-92,71,-67,-84,28
+DE,Germany,Saxony,,2020-04-11,-58,1,54,-44,-18,7
+DE,Germany,Saxony,,2020-04-12,-52,-10,93,-39,-8,3
+DE,Germany,Saxony,,2020-04-13,-84,-94,5,-72,-87,31
+DE,Germany,Saxony,,2020-04-14,-47,-2,27,-47,-42,15
+DE,Germany,Saxony,,2020-04-15,-47,-10,53,-44,-40,14
+DE,Germany,Saxony,,2020-04-16,-56,-4,90,-40,-37,13
+DE,Germany,Saxony,,2020-04-17,-59,-4,59,-44,-37,14
+DE,Germany,Saxony,,2020-04-18,-70,-9,68,-39,-8,7
+DE,Germany,Saxony,,2020-04-19,-54,1,64,-38,-8,5
+DE,Germany,Saxony,,2020-04-20,-46,-15,59,-35,-28,11
+DE,Germany,Saxony,,2020-04-21,-46,-12,77,-35,-29,12
+DE,Germany,Saxony,,2020-04-22,-47,-9,78,-33,-27,10
+DE,Germany,Saxony,,2020-04-23,-47,-9,83,-32,-26,10
+DE,Germany,Saxony,,2020-04-24,-50,-10,54,-36,-27,11
+DE,Germany,Saxony,,2020-04-25,-61,-10,28,-38,-14,7
+DE,Germany,Saxony,,2020-04-26,-47,8,100,-32,1,3
+DE,Germany,Saxony,,2020-04-27,-43,-11,97,-29,-25,9
+DE,Germany,Saxony,,2020-04-28,-45,-8,87,-30,-26,9
+DE,Germany,Saxony,,2020-04-29,-44,7,43,-32,-27,10
+DE,Germany,Saxony,,2020-04-30,-25,19,23,-28,-27,8
+DE,Germany,Saxony,,2020-05-01,-78,-91,80,-55,-81,25
+DE,Germany,Saxony,,2020-05-02,-46,7,-12,-39,-14,7
+DE,Germany,Saxony,,2020-05-03,-57,4,42,-33,-6,4
+DE,Germany,Saxony,,2020-05-04,-27,-5,-6,-32,-24,10
+DE,Germany,Saxony,,2020-05-05,-29,-4,28,-30,-24,10
+DE,Germany,Saxony,,2020-05-06,-29,-3,50,-25,-21,8
+DE,Germany,Saxony,,2020-05-07,-26,-3,63,-24,-19,7
+DE,Germany,Saxony,,2020-05-08,-29,-1,66,-24,-19,7
+DE,Germany,Saxony,,2020-05-09,-37,-1,97,-16,10,1
+DE,Germany,Saxony,,2020-05-10,-45,14,41,-24,12,1
+DE,Germany,Saxony,,2020-05-11,-35,-12,-39,-35,-23,11
+DE,Germany,Saxony,,2020-05-12,-26,-1,30,-25,-21,9
+DE,Germany,Saxony,,2020-05-13,-26,-2,42,-23,-19,7
+DE,Germany,Saxony,,2020-05-14,-22,-2,37,-25,-18,7
+DE,Germany,Saxony,,2020-05-15,-20,-2,46,-23,-18,7
+DE,Germany,Saxony,,2020-05-16,-27,-5,88,-15,13,1
+DE,Germany,Saxony,,2020-05-17,-27,17,101,-18,19,0
+DE,Germany,Saxony,,2020-05-18,-7,1,80,-18,-16,5
+DE,Germany,Saxony,,2020-05-19,-6,8,85,-16,-17,5
+DE,Germany,Saxony,,2020-05-20,4,44,91,-8,-19,1
+DE,Germany,Saxony,,2020-05-21,-46,-86,353,-23,-77,12
+DE,Germany,Saxony,,2020-05-22,-14,-4,87,-32,-53,12
+DE,Germany,Saxony,,2020-05-23,-27,-7,31,-25,-3,4
+DE,Germany,Saxony,,2020-05-24,-33,4,57,-19,8,1
+DE,Germany,Saxony,,2020-05-25,-12,1,9,-21,-21,7
+DE,Germany,Saxony-Anhalt,,2020-02-15,2,-1,34,8,-3,-1
+DE,Germany,Saxony-Anhalt,,2020-02-16,0,16,-5,-2,-1,-1
+DE,Germany,Saxony-Anhalt,,2020-02-17,4,4,12,2,0,0
+DE,Germany,Saxony-Anhalt,,2020-02-18,0,0,11,-1,0,1
+DE,Germany,Saxony-Anhalt,,2020-02-19,-1,-4,6,-2,0,1
+DE,Germany,Saxony-Anhalt,,2020-02-20,0,-1,4,-1,0,1
+DE,Germany,Saxony-Anhalt,,2020-02-21,3,0,8,1,-1,1
+DE,Germany,Saxony-Anhalt,,2020-02-22,0,-2,13,-1,0,0
+DE,Germany,Saxony-Anhalt,,2020-02-23,-10,-14,-45,-9,-1,0
+DE,Germany,Saxony-Anhalt,,2020-02-24,-1,0,10,1,-1,1
+DE,Germany,Saxony-Anhalt,,2020-02-25,-2,-1,8,-1,0,1
+DE,Germany,Saxony-Anhalt,,2020-02-26,-3,-3,1,-3,-1,1
+DE,Germany,Saxony-Anhalt,,2020-02-27,0,4,2,-1,0,1
+DE,Germany,Saxony-Anhalt,,2020-02-28,6,7,5,2,-1,1
+DE,Germany,Saxony-Anhalt,,2020-02-29,4,4,12,4,2,0
+DE,Germany,Saxony-Anhalt,,2020-03-01,13,19,10,5,3,-1
+DE,Germany,Saxony-Anhalt,,2020-03-02,6,8,16,1,1,0
+DE,Germany,Saxony-Anhalt,,2020-03-03,-1,3,8,-4,1,1
+DE,Germany,Saxony-Anhalt,,2020-03-04,1,0,16,0,1,1
+DE,Germany,Saxony-Anhalt,,2020-03-05,0,2,11,-1,1,1
+DE,Germany,Saxony-Anhalt,,2020-03-06,1,-1,-8,-3,-1,2
+DE,Germany,Saxony-Anhalt,,2020-03-07,3,1,11,0,2,1
+DE,Germany,Saxony-Anhalt,,2020-03-08,23,17,29,7,4,-1
+DE,Germany,Saxony-Anhalt,,2020-03-09,3,2,10,-2,0,0
+DE,Germany,Saxony-Anhalt,,2020-03-10,-5,-1,-9,-7,0,2
+DE,Germany,Saxony-Anhalt,,2020-03-11,0,1,20,-2,0,1
+DE,Germany,Saxony-Anhalt,,2020-03-12,-4,7,4,-5,-1,2
+DE,Germany,Saxony-Anhalt,,2020-03-13,-6,11,-6,-13,-4,3
+DE,Germany,Saxony-Anhalt,,2020-03-14,-11,9,48,-14,1,2
+DE,Germany,Saxony-Anhalt,,2020-03-15,-2,20,65,-13,3,1
+DE,Germany,Saxony-Anhalt,,2020-03-16,1,17,45,-20,-13,4
+DE,Germany,Saxony-Anhalt,,2020-03-17,-9,11,30,-28,-17,7
+DE,Germany,Saxony-Anhalt,,2020-03-18,-22,2,62,-30,-21,7
+DE,Germany,Saxony-Anhalt,,2020-03-19,-32,-4,20,-38,-24,9
+DE,Germany,Saxony-Anhalt,,2020-03-20,-40,-6,-21,-46,-28,13
+DE,Germany,Saxony-Anhalt,,2020-03-21,-56,-15,-13,-51,-18,9
+DE,Germany,Saxony-Anhalt,,2020-03-22,-58,-23,8,-52,-18,6
+DE,Germany,Saxony-Anhalt,,2020-03-23,-45,-12,-1,-47,-31,12
+DE,Germany,Saxony-Anhalt,,2020-03-24,-49,-17,12,-49,-33,14
+DE,Germany,Saxony-Anhalt,,2020-03-25,-48,-17,19,-47,-34,13
+DE,Germany,Saxony-Anhalt,,2020-03-26,-49,-15,8,-49,-34,14
+DE,Germany,Saxony-Anhalt,,2020-03-27,-48,-17,23,-50,-35,15
+DE,Germany,Saxony-Anhalt,,2020-03-28,-58,-19,38,-50,-20,9
+DE,Germany,Saxony-Anhalt,,2020-03-29,-74,-48,-56,-65,-27,8
+DE,Germany,Saxony-Anhalt,,2020-03-30,-43,-14,-16,-49,-34,13
+DE,Germany,Saxony-Anhalt,,2020-03-31,-43,-12,7,-46,-34,14
+DE,Germany,Saxony-Anhalt,,2020-04-01,-40,-13,32,-43,-33,12
+DE,Germany,Saxony-Anhalt,,2020-04-02,-41,-12,12,-46,-33,13
+DE,Germany,Saxony-Anhalt,,2020-04-03,-45,-12,-7,-50,-34,15
+DE,Germany,Saxony-Anhalt,,2020-04-04,-55,-14,17,-50,-19,9
+DE,Germany,Saxony-Anhalt,,2020-04-05,-51,-7,47,-46,-12,4
+DE,Germany,Saxony-Anhalt,,2020-04-06,-26,-2,48,-42,-35,10
+DE,Germany,Saxony-Anhalt,,2020-04-07,-30,-1,47,-43,-35,11
+DE,Germany,Saxony-Anhalt,,2020-04-08,-27,10,67,-41,-35,10
+DE,Germany,Saxony-Anhalt,,2020-04-09,-24,12,42,-42,-38,10
+DE,Germany,Saxony-Anhalt,,2020-04-10,-80,-93,63,-69,-81,26
+DE,Germany,Saxony-Anhalt,,2020-04-11,-44,7,39,-46,-14,6
+DE,Germany,Saxony-Anhalt,,2020-04-12,-51,-7,63,-46,-3,1
+DE,Germany,Saxony-Anhalt,,2020-04-13,-82,-94,9,-71,-84,27
+DE,Germany,Saxony-Anhalt,,2020-04-14,-31,0,17,-43,-33,11
+DE,Germany,Saxony-Anhalt,,2020-04-15,-32,-10,45,-40,-32,11
+DE,Germany,Saxony-Anhalt,,2020-04-16,-44,-2,54,-39,-30,10
+DE,Germany,Saxony-Anhalt,,2020-04-17,-45,-3,48,-41,-30,11
+DE,Germany,Saxony-Anhalt,,2020-04-18,-56,-9,58,-40,-4,5
+DE,Germany,Saxony-Anhalt,,2020-04-19,-50,-2,50,-40,-1,3
+DE,Germany,Saxony-Anhalt,,2020-04-20,-35,-4,35,-38,-24,8
+DE,Germany,Saxony-Anhalt,,2020-04-21,-40,-5,44,-38,-25,10
+DE,Germany,Saxony-Anhalt,,2020-04-22,-39,-2,60,-36,-24,8
+DE,Germany,Saxony-Anhalt,,2020-04-23,-45,-16,53,-36,-22,9
+DE,Germany,Saxony-Anhalt,,2020-04-24,-45,-13,41,-40,-24,10
+DE,Germany,Saxony-Anhalt,,2020-04-25,-56,-12,30,-42,-7,6
+DE,Germany,Saxony-Anhalt,,2020-04-26,-43,3,67,-36,4,2
+DE,Germany,Saxony-Anhalt,,2020-04-27,-36,-11,61,-33,-21,7
+DE,Germany,Saxony-Anhalt,,2020-04-28,-40,-9,40,-35,-21,8
+DE,Germany,Saxony-Anhalt,,2020-04-29,-37,3,33,-32,-22,8
+DE,Germany,Saxony-Anhalt,,2020-04-30,-23,20,-3,-28,-23,7
+DE,Germany,Saxony-Anhalt,,2020-05-01,-79,-92,49,-61,-79,24
+DE,Germany,Saxony-Anhalt,,2020-05-02,-39,9,-16,-40,-9,6
+DE,Germany,Saxony-Anhalt,,2020-05-03,-52,-4,16,-35,-1,3
+DE,Germany,Saxony-Anhalt,,2020-05-04,-22,-2,-19,-30,-20,7
+DE,Germany,Saxony-Anhalt,,2020-05-05,-27,-5,6,-28,-17,7
+DE,Germany,Saxony-Anhalt,,2020-05-06,-25,-5,39,-22,-15,6
+DE,Germany,Saxony-Anhalt,,2020-05-07,-23,-3,30,-24,-15,6
+DE,Germany,Saxony-Anhalt,,2020-05-08,-24,-3,48,-25,-15,6
+DE,Germany,Saxony-Anhalt,,2020-05-09,-33,0,80,-21,10,1
+DE,Germany,Saxony-Anhalt,,2020-05-10,-41,21,24,-25,15,0
+DE,Germany,Saxony-Anhalt,,2020-05-11,-27,-8,-34,-31,-19,8
+DE,Germany,Saxony-Anhalt,,2020-05-12,-25,-3,2,-25,-16,7
+DE,Germany,Saxony-Anhalt,,2020-05-13,-24,-4,27,-22,-15,6
+DE,Germany,Saxony-Anhalt,,2020-05-14,-22,-2,18,-23,-16,5
+DE,Germany,Saxony-Anhalt,,2020-05-15,-22,-3,37,-23,-15,6
+DE,Germany,Saxony-Anhalt,,2020-05-16,-32,-4,61,-22,8,2
+DE,Germany,Saxony-Anhalt,,2020-05-17,-34,18,76,-20,16,0
+DE,Germany,Saxony-Anhalt,,2020-05-18,-5,2,61,-23,-22,5
+DE,Germany,Saxony-Anhalt,,2020-05-19,-11,6,57,-23,-22,6
+DE,Germany,Saxony-Anhalt,,2020-05-20,0,38,92,-13,-23,2
+DE,Germany,Saxony-Anhalt,,2020-05-21,-61,-89,253,-32,-76,14
+DE,Germany,Saxony-Anhalt,,2020-05-22,-18,-6,71,-38,-51,12
+DE,Germany,Saxony-Anhalt,,2020-05-23,-29,-6,55,-26,2,3
+DE,Germany,Saxony-Anhalt,,2020-05-24,-37,-1,22,-21,7,1
+DE,Germany,Saxony-Anhalt,,2020-05-25,-10,1,20,-26,-27,6
+DE,Germany,Schleswig-Holstein,,2020-02-15,6,2,31,14,3,0
+DE,Germany,Schleswig-Holstein,,2020-02-16,-5,-19,-40,-4,-2,1
+DE,Germany,Schleswig-Holstein,,2020-02-17,3,2,19,1,-1,0
+DE,Germany,Schleswig-Holstein,,2020-02-18,3,2,6,1,-1,1
+DE,Germany,Schleswig-Holstein,,2020-02-19,3,0,2,-1,0,1
+DE,Germany,Schleswig-Holstein,,2020-02-20,1,1,-3,0,-1,1
+DE,Germany,Schleswig-Holstein,,2020-02-21,0,2,26,3,-1,1
+DE,Germany,Schleswig-Holstein,,2020-02-22,-3,-3,-10,9,-2,1
+DE,Germany,Schleswig-Holstein,,2020-02-23,-8,-20,-44,-6,-3,1
+DE,Germany,Schleswig-Holstein,,2020-02-24,-1,-3,10,0,-1,1
+DE,Germany,Schleswig-Holstein,,2020-02-25,0,0,5,-3,-1,1
+DE,Germany,Schleswig-Holstein,,2020-02-26,5,2,19,-4,0,1
+DE,Germany,Schleswig-Holstein,,2020-02-27,4,6,20,-2,-1,1
+DE,Germany,Schleswig-Holstein,,2020-02-28,6,15,40,3,-1,0
+DE,Germany,Schleswig-Holstein,,2020-02-29,4,7,15,8,2,0
+DE,Germany,Schleswig-Holstein,,2020-03-01,13,39,13,8,2,0
+DE,Germany,Schleswig-Holstein,,2020-03-02,9,9,42,4,0,0
+DE,Germany,Schleswig-Holstein,,2020-03-03,7,6,29,-2,-1,1
+DE,Germany,Schleswig-Holstein,,2020-03-04,5,3,25,-4,-1,1
+DE,Germany,Schleswig-Holstein,,2020-03-05,6,3,41,-3,-1,1
+DE,Germany,Schleswig-Holstein,,2020-03-06,-2,2,2,-6,-2,2
+DE,Germany,Schleswig-Holstein,,2020-03-07,8,2,76,12,3,0
+DE,Germany,Schleswig-Holstein,,2020-03-08,11,9,14,3,1,0
+DE,Germany,Schleswig-Holstein,,2020-03-09,4,3,35,0,-1,1
+DE,Germany,Schleswig-Holstein,,2020-03-10,-1,0,-3,-5,-2,2
+DE,Germany,Schleswig-Holstein,,2020-03-11,9,5,69,-1,-1,1
+DE,Germany,Schleswig-Holstein,,2020-03-12,-4,7,9,-8,-3,3
+DE,Germany,Schleswig-Holstein,,2020-03-13,-8,21,23,-11,-4,3
+DE,Germany,Schleswig-Holstein,,2020-03-14,-10,12,110,-5,-1,3
+DE,Germany,Schleswig-Holstein,,2020-03-15,-21,24,43,-16,-7,4
+DE,Germany,Schleswig-Holstein,,2020-03-16,-9,17,52,-24,-22,7
+DE,Germany,Schleswig-Holstein,,2020-03-17,-20,9,46,-33,-28,10
+DE,Germany,Schleswig-Holstein,,2020-03-18,-41,1,-4,-41,-33,13
+DE,Germany,Schleswig-Holstein,,2020-03-19,-46,-6,37,-43,-36,14
+DE,Germany,Schleswig-Holstein,,2020-03-20,-52,-7,13,-49,-38,16
+DE,Germany,Schleswig-Holstein,,2020-03-21,-63,-21,2,-47,-28,11
+DE,Germany,Schleswig-Holstein,,2020-03-22,-69,-38,-14,-53,-31,9
+DE,Germany,Schleswig-Holstein,,2020-03-23,-51,-17,17,-50,-41,15
+DE,Germany,Schleswig-Holstein,,2020-03-24,-53,-18,31,-51,-43,16
+DE,Germany,Schleswig-Holstein,,2020-03-25,-52,-18,27,-50,-43,16
+DE,Germany,Schleswig-Holstein,,2020-03-26,-52,-15,36,-50,-43,17
+DE,Germany,Schleswig-Holstein,,2020-03-27,-54,-14,42,-51,-43,17
+DE,Germany,Schleswig-Holstein,,2020-03-28,-60,-18,35,-44,-31,11
+DE,Germany,Schleswig-Holstein,,2020-03-29,-70,-53,-27,-58,-36,10
+DE,Germany,Schleswig-Holstein,,2020-03-30,-49,-15,3,-50,-44,16
+DE,Germany,Schleswig-Holstein,,2020-03-31,-45,-7,47,-46,-44,15
+DE,Germany,Schleswig-Holstein,,2020-04-01,-50,-14,-16,-51,-44,17
+DE,Germany,Schleswig-Holstein,,2020-04-02,-50,-11,1,-51,-45,17
+DE,Germany,Schleswig-Holstein,,2020-04-03,-54,-10,3,-52,-44,18
+DE,Germany,Schleswig-Holstein,,2020-04-04,-59,-15,6,-45,-31,12
+DE,Germany,Schleswig-Holstein,,2020-04-05,-57,-32,37,-39,-29,7
+DE,Germany,Schleswig-Holstein,,2020-04-06,-37,-4,78,-43,-45,14
+DE,Germany,Schleswig-Holstein,,2020-04-07,-38,1,73,-44,-45,15
+DE,Germany,Schleswig-Holstein,,2020-04-08,-38,11,51,-45,-45,14
+DE,Germany,Schleswig-Holstein,,2020-04-09,-35,16,38,-45,-47,14
+DE,Germany,Schleswig-Holstein,,2020-04-10,-82,-93,73,-67,-85,28
+DE,Germany,Schleswig-Holstein,,2020-04-11,-51,6,26,-39,-27,9
+DE,Germany,Schleswig-Holstein,,2020-04-12,-61,-41,41,-39,-24,6
+DE,Germany,Schleswig-Holstein,,2020-04-13,-79,-93,65,-66,-87,27
+DE,Germany,Schleswig-Holstein,,2020-04-14,-39,3,15,-47,-45,15
+DE,Germany,Schleswig-Holstein,,2020-04-15,-42,-8,35,-45,-45,16
+DE,Germany,Schleswig-Holstein,,2020-04-16,-49,-3,50,-43,-44,16
+DE,Germany,Schleswig-Holstein,,2020-04-17,-52,-5,66,-44,-43,16
+DE,Germany,Schleswig-Holstein,,2020-04-18,-61,-11,50,-34,-21,9
+DE,Germany,Schleswig-Holstein,,2020-04-19,-57,-28,37,-35,-21,7
+DE,Germany,Schleswig-Holstein,,2020-04-20,-37,-7,52,-36,-34,12
+DE,Germany,Schleswig-Holstein,,2020-04-21,-41,-4,54,-37,-34,13
+DE,Germany,Schleswig-Holstein,,2020-04-22,-42,-6,43,-38,-33,13
+DE,Germany,Schleswig-Holstein,,2020-04-23,-42,-4,83,-35,-34,12
+DE,Germany,Schleswig-Holstein,,2020-04-24,-48,-6,45,-40,-35,14
+DE,Germany,Schleswig-Holstein,,2020-04-25,-53,-8,43,-28,-17,8
+DE,Germany,Schleswig-Holstein,,2020-04-26,-58,-27,4,-37,-23,7
+DE,Germany,Schleswig-Holstein,,2020-04-27,-37,-8,68,-33,-32,11
+DE,Germany,Schleswig-Holstein,,2020-04-28,-39,0,40,-35,-33,11
+DE,Germany,Schleswig-Holstein,,2020-04-29,-44,-1,-10,-39,-33,13
+DE,Germany,Schleswig-Holstein,,2020-04-30,-30,19,-4,-32,-34,11
+DE,Germany,Schleswig-Holstein,,2020-05-01,-82,-92,19,-64,-84,27
+DE,Germany,Schleswig-Holstein,,2020-05-02,-40,7,-7,-30,-18,8
+DE,Germany,Schleswig-Holstein,,2020-05-03,-51,-4,23,-27,-17,6
+DE,Germany,Schleswig-Holstein,,2020-05-04,-25,-4,47,-28,-29,10
+DE,Germany,Schleswig-Holstein,,2020-05-05,-29,-2,63,-29,-30,10
+DE,Germany,Schleswig-Holstein,,2020-05-06,-30,-3,56,-28,-28,10
+DE,Germany,Schleswig-Holstein,,2020-05-07,-29,-1,69,-29,-29,11
+DE,Germany,Schleswig-Holstein,,2020-05-08,-33,-1,118,-27,-28,10
+DE,Germany,Schleswig-Holstein,,2020-05-09,-35,0,121,-11,-7,5
+DE,Germany,Schleswig-Holstein,,2020-05-10,-37,0,57,-15,-4,3
+DE,Germany,Schleswig-Holstein,,2020-05-11,-25,-4,25,-29,-27,10
+DE,Germany,Schleswig-Holstein,,2020-05-12,-30,-3,7,-32,-28,11
+DE,Germany,Schleswig-Holstein,,2020-05-13,-31,-5,6,-32,-27,11
+DE,Germany,Schleswig-Holstein,,2020-05-14,-25,-2,59,-27,-27,9
+DE,Germany,Schleswig-Holstein,,2020-05-15,-32,-3,42,-31,-27,11
+DE,Germany,Schleswig-Holstein,,2020-05-16,-34,-5,60,-20,-5,6
+DE,Germany,Schleswig-Holstein,,2020-05-17,-44,-11,51,-22,-6,4
+DE,Germany,Schleswig-Holstein,,2020-05-18,-9,0,77,-21,-27,9
+DE,Germany,Schleswig-Holstein,,2020-05-19,-5,7,163,-20,-27,8
+DE,Germany,Schleswig-Holstein,,2020-05-20,6,40,240,-12,-27,5
+DE,Germany,Schleswig-Holstein,,2020-05-21,-44,-80,473,-33,-80,18
+DE,Germany,Schleswig-Holstein,,2020-05-22,-9,7,222,-33,-51,14
+DE,Germany,Schleswig-Holstein,,2020-05-23,-16,-2,218,-8,-1,5
+DE,Germany,Schleswig-Holstein,,2020-05-24,-27,44,71,-13,0,3
+DE,Germany,Schleswig-Holstein,,2020-05-25,-2,4,144,-15,-26,7
+DE,Germany,Thuringia,,2020-02-15,4,1,47,13,-3,-2
+DE,Germany,Thuringia,,2020-02-16,5,16,5,10,-1,-1
+DE,Germany,Thuringia,,2020-02-17,1,3,5,4,0,1
+DE,Germany,Thuringia,,2020-02-18,1,1,13,3,-1,1
+DE,Germany,Thuringia,,2020-02-19,2,-1,5,0,-1,1
+DE,Germany,Thuringia,,2020-02-20,0,0,2,1,-1,1
+DE,Germany,Thuringia,,2020-02-21,0,1,9,1,-2,1
+DE,Germany,Thuringia,,2020-02-22,3,1,24,8,2,0
+DE,Germany,Thuringia,,2020-02-23,-4,0,-25,-1,-2,1
+DE,Germany,Thuringia,,2020-02-24,1,-1,1,0,-3,2
+DE,Germany,Thuringia,,2020-02-25,-2,0,13,-1,-2,2
+DE,Germany,Thuringia,,2020-02-26,-4,-1,-1,-3,-2,2
+DE,Germany,Thuringia,,2020-02-27,-3,4,0,-1,-2,1
+DE,Germany,Thuringia,,2020-02-28,1,8,5,3,-2,1
+DE,Germany,Thuringia,,2020-02-29,1,5,12,5,3,0
+DE,Germany,Thuringia,,2020-03-01,13,10,19,14,1,0
+DE,Germany,Thuringia,,2020-03-02,6,5,21,5,1,1
+DE,Germany,Thuringia,,2020-03-03,0,2,4,-2,-1,1
+DE,Germany,Thuringia,,2020-03-04,2,1,12,0,-2,1
+DE,Germany,Thuringia,,2020-03-05,0,0,11,0,-1,1
+DE,Germany,Thuringia,,2020-03-06,-3,-2,-7,-3,-2,2
+DE,Germany,Thuringia,,2020-03-07,3,0,7,0,-1,0
+DE,Germany,Thuringia,,2020-03-08,19,14,33,9,2,-1
+DE,Germany,Thuringia,,2020-03-09,1,-1,11,0,-1,1
+DE,Germany,Thuringia,,2020-03-10,-5,-3,-9,-6,-2,2
+DE,Germany,Thuringia,,2020-03-11,-2,-1,-2,-5,-3,2
+DE,Germany,Thuringia,,2020-03-12,-2,3,8,-3,-2,2
+DE,Germany,Thuringia,,2020-03-13,-7,13,0,-6,-3,3
+DE,Germany,Thuringia,,2020-03-14,-9,10,37,-7,0,2
+DE,Germany,Thuringia,,2020-03-15,-3,23,81,1,1,1
+DE,Germany,Thuringia,,2020-03-16,2,21,39,-10,-7,3
+DE,Germany,Thuringia,,2020-03-17,-10,9,28,-25,-20,7
+DE,Germany,Thuringia,,2020-03-18,-17,3,63,-25,-23,8
+DE,Germany,Thuringia,,2020-03-19,-25,-2,33,-31,-25,9
+DE,Germany,Thuringia,,2020-03-20,-48,-7,-22,-46,-30,14
+DE,Germany,Thuringia,,2020-03-21,-63,-20,-31,-50,-26,10
+DE,Germany,Thuringia,,2020-03-22,-64,-21,14,-45,-26,7
+DE,Germany,Thuringia,,2020-03-23,-48,-17,3,-46,-34,14
+DE,Germany,Thuringia,,2020-03-24,-50,-19,19,-46,-36,15
+DE,Germany,Thuringia,,2020-03-25,-49,-19,19,-45,-37,14
+DE,Germany,Thuringia,,2020-03-26,-50,-18,7,-47,-37,15
+DE,Germany,Thuringia,,2020-03-27,-50,-18,27,-47,-38,15
+DE,Germany,Thuringia,,2020-03-28,-57,-20,40,-38,-25,8
+DE,Germany,Thuringia,,2020-03-29,-75,-44,-50,-63,-32,8
+DE,Germany,Thuringia,,2020-03-30,-44,-19,0,-46,-36,15
+DE,Germany,Thuringia,,2020-03-31,-44,-15,4,-44,-37,15
+DE,Germany,Thuringia,,2020-04-01,-40,-13,39,-38,-36,13
+DE,Germany,Thuringia,,2020-04-02,-40,-12,30,-41,-36,13
+DE,Germany,Thuringia,,2020-04-03,-47,-14,-14,-48,-37,16
+DE,Germany,Thuringia,,2020-04-04,-54,-15,19,-38,-23,8
+DE,Germany,Thuringia,,2020-04-05,-46,5,77,-28,-18,4
+DE,Germany,Thuringia,,2020-04-06,-29,-7,54,-35,-37,12
+DE,Germany,Thuringia,,2020-04-07,-31,-3,61,-35,-38,12
+DE,Germany,Thuringia,,2020-04-08,-27,11,67,-33,-38,10
+DE,Germany,Thuringia,,2020-04-09,-26,12,51,-35,-41,11
+DE,Germany,Thuringia,,2020-04-10,-80,-93,83,-59,-84,26
+DE,Germany,Thuringia,,2020-04-11,-44,3,51,-30,-17,6
+DE,Germany,Thuringia,,2020-04-12,-50,-3,84,-28,-14,2
+DE,Germany,Thuringia,,2020-04-13,-82,-94,15,-67,-87,29
+DE,Germany,Thuringia,,2020-04-14,-32,-3,20,-40,-41,13
+DE,Germany,Thuringia,,2020-04-15,-32,-10,59,-34,-39,12
+DE,Germany,Thuringia,,2020-04-16,-42,-6,80,-32,-37,12
+DE,Germany,Thuringia,,2020-04-17,-46,-7,60,-36,-37,12
+DE,Germany,Thuringia,,2020-04-18,-56,-11,55,-27,-10,5
+DE,Germany,Thuringia,,2020-04-19,-50,6,62,-31,-12,4
+DE,Germany,Thuringia,,2020-04-20,-40,-9,37,-32,-28,11
+DE,Germany,Thuringia,,2020-04-21,-44,-9,52,-32,-28,11
+DE,Germany,Thuringia,,2020-04-22,-42,-8,64,-30,-28,9
+DE,Germany,Thuringia,,2020-04-23,-42,-1,66,-30,-28,9
+DE,Germany,Thuringia,,2020-04-24,-44,-17,49,-34,-28,11
+DE,Germany,Thuringia,,2020-04-25,-52,-15,41,-28,-8,6
+DE,Germany,Thuringia,,2020-04-26,-39,14,104,-18,-2,2
+DE,Germany,Thuringia,,2020-04-27,-34,-12,65,-28,-25,9
+DE,Germany,Thuringia,,2020-04-28,-39,-9,40,-31,-26,9
+DE,Germany,Thuringia,,2020-04-29,-34,4,48,-27,-27,9
+DE,Germany,Thuringia,,2020-04-30,-22,22,4,-24,-29,8
+DE,Germany,Thuringia,,2020-05-01,-81,-93,30,-57,-82,26
+DE,Germany,Thuringia,,2020-05-02,-39,6,-16,-29,-14,7
+DE,Germany,Thuringia,,2020-05-03,-50,12,47,-16,-7,3
+DE,Germany,Thuringia,,2020-05-04,-25,-5,-8,-25,-22,9
+DE,Germany,Thuringia,,2020-05-05,-28,-6,32,-22,-21,8
+DE,Germany,Thuringia,,2020-05-06,-25,-4,51,-17,-20,7
+DE,Germany,Thuringia,,2020-05-07,-24,-4,57,-17,-19,6
+DE,Germany,Thuringia,,2020-05-08,-26,-3,61,-18,-20,7
+DE,Germany,Thuringia,,2020-05-09,-31,1,72,-4,5,1
+DE,Germany,Thuringia,,2020-05-10,-42,27,30,-15,6,1
+DE,Germany,Thuringia,,2020-05-11,-32,-15,-35,-32,-21,10
+DE,Germany,Thuringia,,2020-05-12,-25,-5,17,-20,-19,8
+DE,Germany,Thuringia,,2020-05-13,-23,-5,34,-17,-18,7
+DE,Germany,Thuringia,,2020-05-14,-23,-4,21,-21,-19,7
+DE,Germany,Thuringia,,2020-05-15,-20,-4,49,-18,-18,6
+DE,Germany,Thuringia,,2020-05-16,-27,-4,77,-5,9,1
+DE,Germany,Thuringia,,2020-05-17,-21,33,99,-5,14,0
+DE,Germany,Thuringia,,2020-05-18,-7,-1,61,-12,-17,5
+DE,Germany,Thuringia,,2020-05-19,-9,6,67,-11,-18,5
+DE,Germany,Thuringia,,2020-05-20,3,42,75,-4,-21,2
+DE,Germany,Thuringia,,2020-05-21,-51,-88,306,-15,-79,13
+DE,Germany,Thuringia,,2020-05-22,-18,-8,90,-30,-56,13
+DE,Germany,Thuringia,,2020-05-23,-28,-7,38,-20,-4,4
+DE,Germany,Thuringia,,2020-05-24,-31,13,47,-5,2,1
+DE,Germany,Thuringia,,2020-05-25,-10,-2,26,-14,-20,6
