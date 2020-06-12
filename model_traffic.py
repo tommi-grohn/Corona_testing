@@ -110,7 +110,7 @@ while ind <= len(obs_new) - 1:
 #################################################################################
 
 def load_mobility_raw_onlynan():
-    url = 'Global_Mobility_Report.csv'
+    url = 'Global_Mobility_Report_Germany.csv'
     
     data = pd.read_csv(url, dtype={"country_region_code": "string",
                                    "country_region": "string",
