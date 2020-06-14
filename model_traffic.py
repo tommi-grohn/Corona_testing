@@ -1,11 +1,11 @@
 import requests
 import pandas as pd
-import arviz as az
+#import arviz as az
 from collections import OrderedDict
 import matplotlib.pyplot as plt
 from datetime import date, timedelta
 import datetime
-from scipy.integrate import solve_ivp
+#from scipy.integrate import solve_ivp
 from scipy import integrate, optimize
 import numpy as np
 
@@ -14,7 +14,6 @@ from pymc3.ode import DifferentialEquation
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
-import arviz as az
 import theano
 
 ##################################################################################

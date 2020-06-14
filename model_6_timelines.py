@@ -179,9 +179,26 @@ with pm.Model() as modelSEIR:
 if train_model:
     with modelSEIR:
         trace = pm.sample(500,tune=500, target_accept = 0.95, cores=1)
+    
+    beta1_estimated = np.mean(trace.beta1)
+    beta2_estimated = np.mean(trace.beta2)
+    beta3_estimated = np.mean(trace.beta3)
+    beta4_estimated = np.mean(trace.beta4)
+    beta5_estimated = np.mean(trace.beta5)
+    beta6_estimated = np.mean(trace.beta6)
+
+    print(beta1_estimated)
+    print(beta2_estimated)
+    print(beta3_estimated)
+    print(beta4_estimated)
+    print(beta5_estimated)
+    print(beta6_estimated)
+    
+    with modelSEIR:
         db = pm.backends.Text('data_trace_stockholm_6_timelines')
         pm.save_trace(trace, directory = 'data_trace_stockholm_6_timelines', overwrite=True)
 else:
     with modelSEIR:
         trace = pm.load_trace(directory = 'data_trace_stockholm_6_timelines')
+
 
